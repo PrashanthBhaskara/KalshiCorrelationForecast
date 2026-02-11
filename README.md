@@ -1,3 +1,14 @@
 # KalshiCorrelationForecast
 
+
+## Setup
+
+```bash
+python -m venv .venv
+source venv/source/activate
+pip install requirements.txt
+```
+
+## Abstract
+
 Prediction markets encode probabilistic beliefs about future events through continuously updated prices. This paper investigates whether—and under what conditions—prices from correlated markets can improve signal extraction and forecasting for a specified event beyond what is achievable from the focal market alone. Using networks of macroeconomically linked event contracts,  we treat market prices as noisy measurements of latent fundamentals and test whether cross-market dependence can be exploited to smooth idiosyncratic noise, reduce forecast variance, and detect regime shifts in belief formation. We compare single-market forecasting models to multi-market frameworks that incorporate contemporaneous and lagged cross-prices, including dynamic factor representations and state-space filters with correlation-aware measurement error. We further examine the diagnostic value of negative correlations among contracts that ostensibly load on the same underlying indicator, hypothesizing that such patterns may reflect differences in contract design, trader constraints, or mismatches in resolution mechanics rather than true economic disagreement. To address this, we introduce robustness checks that explicitly model resolution rules and settlement ambiguity, and we quantify how sensitivity to these mechanics affects inferred probabilities and forecast confidence. Empirically, we evaluate out-of-sample performance using rolling-window prediction and calibration tests, and we measure whether multi-market models produce sharper, better-calibrated event probability estimates. Our results aim to clarify when correlated markets bolster inference, when they merely duplicate information, and when divergence across linked contracts signals structural frictions that require careful interpretation of “probabilities” implied by prices.
