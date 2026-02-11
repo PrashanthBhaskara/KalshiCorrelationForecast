@@ -1,0 +1,3 @@
+event_ticker,series_ticker,title,sub_title,category,mutually_exclusive,total_volume,total_dollar_volume,total_open_interest,market_count,close_time,scrape_status,available_on_brokers,collateral_return_type,strike_period
+KXEOWEEK-26FEB07,KXEOWEEK,Will Trump sign an executive order this week (2/1-2/7)?,"Feb 1, 2026 to Feb 7, 2026",Politics,False,1345235,1304877.95,810030,1,2026-02-08T04:59:00Z,closed,True,,
+KXSBGUESTS-26,KXSBGUESTS,Who will attend the Big Game?,In 2026,Entertainment,False,39772252,2588644.45,15513486,34,2026-02-13T15:00:00Z,closed,True,,
