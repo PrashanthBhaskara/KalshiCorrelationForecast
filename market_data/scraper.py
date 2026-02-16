@@ -3,17 +3,20 @@ Kalshi Events Scraper
 Optimized for scraping settled (historical) events with multi-threading.
 
 Usage:
-    python kalshi_scraper.py                                    # All settled events
-    python kalshi_scraper.py --min-dollar-volume 100000         # Settled events with $100K+ volume
-    python kalshi_scraper.py --min-dollar-volume 1000000        # Settled events with $1M+ volume
-    python kalshi_scraper.py --status open closed settled       # All statuses
+    python kalshi_scraper.py                                              # All settled events
+    python kalshi_scraper.py --min-dollar-volume 100000                   # Settled events with $100K+ volume
+    python kalshi_scraper.py --filter-actual-status settled               # Only truly settled events
+    python kalshi_scraper.py --status open closed settled --filter-actual-status settled  # Query all, keep only settled
     
 Output:
     kalshi_events_YYYYMMDD_HHMMSS.csv
     
 Note:
     The 'volume' field from Kalshi API is already in dollars (not contracts).
-    Default status is 'settled' for historical analysis.
+    Default status query is 'settled' for historical analysis.
+    
+    The API sometimes returns events with wrong status, so we check actual market
+    statuses and provide --filter-actual-status to filter by true status.
 """
 
 import argparse
@@ -88,12 +91,44 @@ def get_market_count(event: dict) -> int:
     return len(event.get("markets", []))
 
 
-def process_event(event: dict, status: str, min_dollar_volume: int) -> dict:
+def get_actual_event_status(event: dict) -> str:
+    """
+    Determine actual event status from its markets' statuses.
+    Don't trust the query parameter - check the actual market data.
+    """
+    markets = event.get("markets", [])
+    
+    if not markets:
+        return "unknown"
+    
+    market_statuses = [m.get("status", "").lower() for m in markets]
+    
+    # If all markets are settled/finalized, event is settled
+    settled_statuses = {"settled", "finalized", "determined"}
+    if all(s in settled_statuses for s in market_statuses):
+        return "settled"
+    
+    # If any market is active, event is open
+    if any(s == "active" for s in market_statuses):
+        return "open"
+    
+    # If any market is closed (but not settled), event is closed
+    if any(s == "closed" for s in market_statuses):
+        return "closed"
+    
+    # Default fallback
+    return "unknown"
+
+
+def process_event(event: dict, query_status: str, min_dollar_volume: int) -> dict:
     """Process a single event and return enriched data if it passes filters."""
     dollar_volume = calculate_event_dollar_volume(event)
     
     if dollar_volume < min_dollar_volume:
         return None
+    
+    # Get actual status from market data, not from query parameter
+    actual_status = get_actual_event_status(event)
     
     return {
         "event_ticker": event.get("event_ticker"),
@@ -106,7 +141,7 @@ def process_event(event: dict, status: str, min_dollar_volume: int) -> dict:
         "open_interest": calculate_event_open_interest(event),
         "market_count": get_market_count(event),
         "close_time": get_event_close_time(event),
-        "scrape_status": status,
+        "actual_status": actual_status,  # True status from market data
     }
 
 
@@ -153,12 +188,14 @@ def fetch_all_events_for_status(status: str, min_dollar_volume: int = 0) -> list
     return all_events
 
 
-def scrape_all_events(statuses: list, min_dollar_volume: int = 0) -> list:
+def scrape_all_events(statuses: list, min_dollar_volume: int = 0, filter_actual_status: str = None) -> list:
     """Scrape events from multiple statuses in parallel."""
     all_events = []
     
     print(f"Starting scrape at {datetime.now().isoformat()}")
-    print(f"Filters: statuses={statuses}, min_dollar_volume=${min_dollar_volume:,}")
+    print(f"Filters: query_statuses={statuses}, min_dollar_volume=${min_dollar_volume:,}")
+    if filter_actual_status:
+        print(f"         filter_actual_status={filter_actual_status}")
     print("-" * 60)
     
     # Fetch different statuses in parallel
@@ -185,6 +222,11 @@ def scrape_all_events(statuses: list, min_dollar_volume: int = 0) -> list:
             seen.add(ticker)
             unique_events.append(event)
     
+    # Filter by actual status if requested
+    if filter_actual_status:
+        unique_events = [e for e in unique_events if e.get("actual_status") == filter_actual_status]
+        print(f"Filtered to {len(unique_events)} events with actual_status='{filter_actual_status}'")
+    
     print("-" * 60)
     print(f"Total unique events: {len(unique_events)}")
     
@@ -208,7 +250,7 @@ def events_to_csv(events: list, filename: str):
         "open_interest",
         "market_count",
         "close_time",
-        "scrape_status",
+        "actual_status",  # True status from market data
     ]
     
     # Sort by dollar volume descending
@@ -236,7 +278,14 @@ def main():
         nargs="+",
         default=["settled"],  # Default to settled for historical analysis
         choices=["open", "closed", "settled"],
-        help="Event statuses to fetch (default: settled)"
+        help="Event statuses to query from API (default: settled)"
+    )
+    parser.add_argument(
+        "--filter-actual-status",
+        type=str,
+        default=None,
+        choices=["open", "closed", "settled"],
+        help="Filter results by actual status from market data (optional)"
     )
     parser.add_argument(
         "--output",
@@ -247,14 +296,14 @@ def main():
     args = parser.parse_args()
     
     # Scrape events
-    events = scrape_all_events(args.status, args.min_dollar_volume)
+    events = scrape_all_events(args.status, args.min_dollar_volume, args.filter_actual_status)
     
     # Save to CSV
     if args.output:
         filename = args.output
     else:
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        filename = f"market_data/kalshi_events_{timestamp}.csv"
+        filename = f"kalshi_events_{timestamp}.csv"
     
     events_to_csv(events, filename)
     
@@ -273,12 +322,12 @@ def main():
             print(f"  {cat}: {count}")
         
         print("\n" + "=" * 60)
-        print("SUMMARY BY STATUS")
+        print("SUMMARY BY STATUS (actual from market data)")
         print("=" * 60)
         
         statuses = {}
         for event in events:
-            status = event.get("scrape_status", "Unknown")
+            status = event.get("actual_status", "Unknown")
             statuses[status] = statuses.get(status, 0) + 1
         
         for status, count in sorted(statuses.items(), key=lambda x: -x[1]):

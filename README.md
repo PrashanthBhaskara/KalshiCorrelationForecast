@@ -5,7 +5,7 @@
 
 ```bash
 python -m venv .venv
-source venv/source/activate
+source .venv/source/bin/activate
 pip install requirements.txt
 ```
 
