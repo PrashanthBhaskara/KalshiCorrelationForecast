@@ -1,0 +1,6 @@
+idx1,idx2,similarity,title1,title2,ticker1,ticker2,category1,category2,volume1,volume2
+390,442,0.99673223,"Bitcoin price on Jan 27, 2026 at 5pm EST? On Jan 27, 2026 at 5pm EST","Bitcoin price on Jan 28, 2026 at 5pm EST? On Jan 28, 2026 at 5pm EST",KXBTCD-26JAN2717,KXBTCD-26JAN2817,Crypto,Crypto,1415128,1298301
+366,559,0.99612635,"What will Karoline Leavitt say in the next press briefing? Feb 10, 2026","What will Karoline Leavitt say in the next press briefing? Feb 18, 2026",KXSECPRESSMENTION-26MAR01,KXSECPRESSMENTION-26MAR08,Mentions,Mentions,1484049,1020013
+221,317,0.99605805,"Bitcoin price range on Nov 21, 2024 at 5pm EST? On Nov 21, 2024","Bitcoin price range on Nov 19, 2024 at 5pm EST? On Nov 19, 2024",KXBTC-24NOV2117,KXBTC-24NOV1917,Crypto,Crypto,2317050,1669341
+258,559,0.9956608,"What will Karoline Leavitt say in the next press briefing? Before Feb 21, 2026","What will Karoline Leavitt say in the next press briefing? Feb 18, 2026",KXSECPRESSMENTION-26FEB21,KXSECPRESSMENTION-26MAR08,Mentions,Mentions,2010628,1020013
+183,397,0.9955504,"Bitcoin price on Jan 23, 2026 at 5pm EST? On Jan 23, 2026 at 5pm EST","Bitcoin price on Jan 21, 2026 at 5pm EST? On Jan 21, 2026 at 5pm EST",KXBTCD-26JAN2317,KXBTCD-26JAN2117,Crypto,Crypto,2958096,1394198

@@ -1,0 +1,6 @@
+idx1,idx2,similarity,title1,title2,ticker1,ticker2,category1,category2,volume1,volume2
+170,182,-0.124226965,Emmy Award for Drama Series? 77th Emmy Awards,Will Trump create a National Bitcoin Reserve in 2025? Before 2026,KXEMMYDSERIES-77,KXBTCRESERVE-26,Entertainment,Politics,3187898,2979230
+55,216,-0.102426745,Inflation in Apr 2025? (CPI YoY) In Apr 2025,Who will win Survivor Season 49? Survivor Season 49,KXCPIYOY-25APR,KXSURVIVOR-26JAN31,Economics,Entertainment,11366545,2362782
+135,170,-0.09831412,Will the US say that aliens exist in 2025? Before 2026,Emmy Award for Drama Series? 77th Emmy Awards,KXALIENS-26,KXEMMYDSERIES-77,Science and Technology,Entertainment,4300125,3187898
+216,238,-0.074415594,Who will win Survivor Season 49? Survivor Season 49,CPI in Apr 2025? In Apr 2025,KXSURVIVOR-26JAN31,KXCPI-25APR,Entertainment,Economics,2362782,2161978
+238,404,-0.06862631,CPI in Apr 2025? In Apr 2025,What will the announcers say during the Volkanovski vs Lopes fight? Volkanovski vs Lopes,KXCPI-25APR,KXFIGHTMENTION-26JAN31VOLLOP,Economics,Mentions,2161978,1379869

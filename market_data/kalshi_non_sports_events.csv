@@ -1,0 +1,573 @@
+event_ticker,series_ticker,title,sub_title,category,mutually_exclusive,dollar_volume,open_interest,market_count,close_time,actual_status
+PRES-2024,PRES,Who will win the Presidential Election?,In 2024,Elections,True,535948943,104976955,6,2025-01-20T17:03:48.078202Z,settled
+POPVOTEMOV-24,POPVOTEMOV,Popular vote margin of victory?,In 2024,Elections,True,134863999,52963231,18,2025-01-06T18:59:46.641806Z,settled
+KXMAYORNYCPARTY-25,KXMAYORNYCPARTY,New York City Mayor Election,In 2025,Politics,True,121642553,67676341,5,2025-11-07T03:18:58.747249Z,settled
+KXFIRSTSUPERBOWLSONG-26FEB09,KXFIRSTSUPERBOWLSONG,Bad Bunny’s halftime opener?,Bad Bunny setlist,Entertainment,True,113517455,103540367,31,2026-02-09T01:27:10Z,settled
+KXFEDDECISION-25SEP,KXFEDDECISION,Fed decision in Sep 2025?,"On Sep 17, 2025",Economics,True,91819656,58158169,5,2025-09-17T17:55:00Z,settled
+ECMOV-24,ECMOV,Electoral College margin of victory?,In 2024,Elections,True,86308117,40869728,16,2025-01-06T19:03:57.487573Z,settled
+POPVOTEMOVSMALL-24,POPVOTEMOVSMALL,Popular vote margin of victory (0.25% ranges)?,In 2024,Elections,True,84757997,25122604,18,2025-01-06T19:00:08.55334Z,settled
+KXGOVSHUTLENGTH-26JAN01,KXGOVSHUTLENGTH,How long will the government shutdown last?,"Sep 5, 2025 to Jan 1, 2026",Politics,False,82576537,32449170,60,2025-11-13T15:00:00Z,settled
+POPVOTE-24,POPVOTE,Who will win the popular vote?,In 2024,Politics,True,81933515,26533591,2,2025-01-06T19:16:12.683659Z,settled
+KXSUPERBOWLAD-SB2026,KXSUPERBOWLAD,Which brands will advertise during the Big Game?,The Big Game 2026,Companies,False,72200453,28157561,28,2026-02-09T04:09:27Z,settled
+KXGOVSHUT-26JAN31,KXGOVSHUT,"Government shutdown on Jan 31, 2026?","On Jan 31, 2026",Politics,False,60576426,16659359,1,2026-01-31T16:00:00Z,settled
+KXFEDDECISION-25JUL,KXFEDDECISION,Fed decision in Jul 2025?,"On Jul 30, 2025",Economics,True,48053671,36389022,5,2025-07-30T17:55:00Z,settled
+KXPERFORMSUPERBOWLB-26,KXPERFORMSUPERBOWLB,Who will perform at the Big Game?,In 2026,Entertainment,False,47345230,18215015,54,2026-02-09T05:11:41Z,settled
+KXFEDDECISION-25MAY,KXFEDDECISION,Fed decision in May 2025?,"On May 7, 2025",Economics,True,41343139,27502656,5,2025-05-07T17:55:00Z,settled
+KXFEDDECISION-25DEC,KXFEDDECISION,Fed decision in Dec 2025?,"On Dec 10, 2025",Economics,True,39982396,27223834,5,2025-12-10T18:59:00Z,settled
+KXSBGUESTS-26,KXSBGUESTS,Who will attend the Big Game?,In 2026,Entertainment,False,39772252,15513486,34,2026-02-11T15:38:18Z,settled
+KXFEDDECISION-25OCT,KXFEDDECISION,Fed decision in Oct 2025?,"On Oct 29, 2025",Economics,True,39093798,24530445,5,2025-10-29T17:59:00Z,settled
+POPVOTEMOVSMALLER-24,POPVOTEMOVSMALLER,Popular vote margin of victory (0.10% ranges)?,In 2024,Elections,True,37209372,13845851,13,2025-01-06T19:01:56.941923Z,settled
+KXGOVSHUTLENGTH-26FEB28,KXGOVSHUTLENGTH,How long will the government shutdown last?,"Jan 25, 2026 to Feb 28, 2026",Politics,False,36839088,20539857,9,2026-02-04T15:00:00Z,settled
+KXFEDDECISION-25JUN,KXFEDDECISION,Fed decision in Jun 2025?,"On Jun 18, 2025",Economics,True,36504721,27214093,5,2025-06-18T17:55:00Z,settled
+KXFEDDECISION-26JAN,KXFEDDECISION,Fed decision in Jan 2026?,"On Jan 28, 2026",Economics,True,35976526,26211461,5,2026-01-28T18:59:00Z,settled
+SENATEAZ-24,SENATEAZ,Who will win the Senate race in Arizona?,In 2024,Politics,True,35494026,9968977,2,2025-01-03T20:20:05.754858Z,settled
+KXBTCMAXY-25,KXBTCMAXY,How high will Bitcoin get in 2025?,In 2025,Crypto,False,32460997,10250735,17,2026-01-01T04:59:00Z,settled
+KXGOVTSHUTDOWN-26FEB14,KXGOVTSHUTDOWN,"Government shutdown on Feb 14, 2026?","Feb 14, 2026",Politics,False,29962958,21305403,1,2026-02-14T15:00:00Z,settled
+PRESPARTYFULL-24,PRESPARTYFULL,Who will win the Popular Vote and Electoral College?,In 2024,Politics,True,28921006,12502930,4,2025-01-06T19:02:35.659601Z,settled
+POWER-24,POWER,"Who will win the House, Senate, and Presidency?",In 2025,Politics,True,28449837,11317703,8,2025-02-01T15:00:18.061322Z,settled
+CLOSESTSTATE-24,CLOSESTSTATE,Closest state in the Presidential election?,In 2024,Elections,True,25934826,9992566,17,2025-01-06T19:04:12.996516Z,settled
+GOVPARTYNJ-25,GOVPARTYNJ,New Jersey Governor winner?,In 2025,Politics,True,21640003,12296411,2,2025-11-07T03:18:14.146204Z,settled
+INXD-24DEC31,KXINXY,S&P price range at the end of the year?,"On Dec 31, 2024",Financials,True,21011254,1039129,15,2024-12-31T21:00:00Z,settled
+KXRATECUTCOUNT-25DEC31,KXRATECUTCOUNT,Number of rate cuts in 2025?,In 2025,Economics,True,20625394,6805259,15,2026-01-01T04:59:00Z,settled
+KXTOPARTIST-25,KXTOPARTIST,Top artist on Spotify in 2025?,In 2025,Entertainment,True,20047958,15401758,9,2025-12-03T14:48:37.340022Z,settled
+PRESPARTYGA-24,PRESPARTYGA,Who will win Georgia in the presidential election?,In 2024,Politics,True,19884204,6565330,2,2025-01-06T19:17:32.233155Z,settled
+KXTIME-25,KXTIME,TIME's Person of the Year for 2025?,In 2025,Entertainment,False,19578684,9473096,37,2025-12-11T13:04:53.370836Z,settled
+KXETHMAXY-25DEC31,KXETHMAXY,How high will Ethereum get in 2025?,In 2025,Crypto,False,19097297,4492921,13,2025-12-31T15:00:00Z,settled
+KXRANKLISTGOOGLESEARCH-26JAN,KXRANKLISTGOOGLESEARCH,#1 Searched Person on Google in 2025?,In 2025,Entertainment,True,18792791,10387812,40,2025-12-04T15:12:55.939466Z,settled
+KXLLM1-25DEC31,KXLLM1,Best AI at the end of 2025?,"On Dec 31, 2025",Science and Technology,True,18689704,10750961,7,2025-12-31T15:00:00Z,settled
+KXBTCMINY-25-2,KXBTCMINY,How low will Bitcoin get this year?,In 2025 (Lower Strikes),Crypto,False,17503650,4336171,7,2026-01-01T04:59:00Z,settled
+NASDAQ100Y-24DEC31,KXNASDAQ100Y,Nasdaq price range at the end of the year?,"On Dec 31, 2024",Financials,True,17414575,816599,15,2024-12-31T21:00:00Z,settled
+KXELECTIONMOVZOHRAN-25,KXELECTIONMOVZOHRAN,Margin of victory for Zohran Mamdani in the NYC Mayoral Election?,In 2025,Elections,True,17309615,7709455,10,2025-12-03T01:44:48.719034Z,settled
+PRESPARTYPA-24,PRESPARTYPA,Who will win Pennsylvania in the presidential election?,In 2024,Politics,True,17042008,4019997,2,2025-01-06T19:43:52.293518Z,settled
+INXY-23DEC29,KXINXY,"S&P 500 range on Dec 29, 2023?","On Dec 29, 2023",Financials,True,16995983,1312432,15,2023-12-29T21:00:00Z,settled
+KXMAYORNYCNOMD-25,KXMAYORNYCNOMD,Democratic NYC Mayor nominee in 2025?,In 2025,Politics,True,16963803,6870146,22,2025-07-01T18:09:49.555096Z,settled
+HOUSEMOV-24,HOUSEMOV,House margin of victory?,In 2024,Elections,True,16252923,3937728,8,2025-02-01T15:00:09.745528Z,settled
+KXBTCMAX125-1,KXBTCMAX125,When will Bitcoin hit $125k?,Before 2027,Crypto,False,14561675,3832519,17,2025-10-05T05:26:28.115064Z,settled
+PRESPARTYMI-24,PRESPARTYMI,Who will win Michigan in the presidential election?,In 2024,Politics,True,14548325,4143676,2,2025-01-06T19:27:11.240901Z,settled
+POPVOTEMOVPA-24,POPVOTEMOVPA,Popular vote margin of victory in Pennsylvania?,In 2024,Elections,True,14254350,5839509,20,2025-01-06T20:13:27.73608Z,settled
+KXDJTJOINTSESSION-25MAR04,KXDJTJOINTSESSION,What will Trump say in his speech about the State of the Union today?,"On Mar 4, 2025",Politics,False,13744260,7027964,40,2025-03-05T04:28:51.980013Z,settled
+KXELECTIONMOVNJGOV-25NOV04,KXELECTIONMOVNJGOV,Margin of victory for Mikie Sherrill in New Jersey Governor election?,New Jersey Gubernatorial Election,Elections,True,13432598,7336328,9,2025-12-04T00:56:25.307468Z,settled
+KXCANADAPM-45,KXCANADAPM,Who will be the Canadian Prime Minister after the next election?,For the next Parliament,Politics,True,13061085,2205949,6,2025-05-27T16:27:05.757591Z,settled
+PRESPARTYIA-24,PRESPARTYIA,Who will win Iowa in the presidential election?,In 2024,Elections,True,12930686,3836647,2,2025-01-06T19:56:36.600781Z,settled
+KXSECAG-26DEC31,KXSECAG,Who will be Trump's Attorney General?,"By Dec 31, 2026",Politics,True,12672827,1419303,18,2025-02-05T13:24:46.878651Z,settled
+KXSECDEF-26DEC31,KXSECDEF,Who will be Trump's Secretary of Defense?,"By Dec 31, 2026",Politics,True,12461725,2454702,16,2025-01-25T05:39:04.042035Z,settled
+PRESPARTYNC-24,PRESPARTYNC,Who will win North Carolina in the presidential election?,In 2024,Politics,True,12233384,3998415,2,2025-01-06T19:25:24.991174Z,settled
+KXSECHHS-26DEC31,KXSECHHS,Who will be Trump's Secretary of Health and Human Services?,"By Dec 31, 2026",Politics,True,12146553,1768208,8,2025-02-13T17:45:47.505055Z,settled
+KXNOBELPEACE-25,KXNOBELPEACE,Who will win the Nobel Peace Prize?,In 2025,Entertainment,False,12003692,6841035,24,2025-10-10T12:17:03.578157Z,settled
+KXCPIYOY-25APR,KXCPIYOY,Inflation in Apr 2025? (CPI YoY),In Apr 2025,Economics,False,11366545,5030832,10,2025-05-13T12:25:00Z,settled
+KXINXY-25DEC31,KXINXY,S&P close price end of 2025?,"On Dec 31, 2025",Financials,True,11303209,5182238,20,2025-12-31T15:00:00Z,settled
+KXBIDENPARDON-25JAN21B,KXBIDENPARDON,Who will Biden pardon?,Before his term ends,Politics,False,10710501,5415802,29,2025-01-21T15:00:00Z,settled
+KXNEXTPOPE-35,KXNEXTPOPE,Who will the next Pope be?,Before 2035,World,True,10618819,7959832,37,2025-05-08T17:26:39.337569Z,settled
+PRESPARTYNV-24,PRESPARTYNV,Who will win Nevada in the presidential election?,In 2024,Politics,True,10607466,2852547,2,2025-01-06T19:56:58.030744Z,settled
+NASDAQ100Y-23DEC29,KXNASDAQ100Y,"Nasdaq range on Dec 29 ,2023?","On Dec 29 ,2023",Financials,True,10462149,911165,15,2023-12-29T21:00:00Z,settled
+KXSWINGSTATES24DJT,KXSWINGSTATES24DJT,How many swing states will Trump win?,In 2024,Politics,True,10231804,4124049,8,2025-01-06T19:03:02.829707Z,settled
+KXTRUMPOUT-26,KXTRUMPOUT,Trump out as President in 2025?,In 2025,Politics,False,10171202,2297577,1,2026-01-01T04:59:00Z,settled
+KXAAAGASM-25JUN30,KXAAAGASM,Gas prices in the US in Jun 2025?,"On Jun 30, 2025",Economics,False,10105642,3384864,11,2025-06-30T03:59:00Z,settled
+KXBTC2025100-25DEC31,KXBTC2025100,Will Bitcoin cross $100k again this year?,in 2025,Crypto,True,10016515,3625096,1,2026-01-01T05:07:17.879081Z,settled
+SENATEMOV-24,SENATEMOV,Senate margin of victory?,In 2024,Elections,True,9085904,3667331,10,2025-02-01T15:00:18.977278Z,settled
+KXNFLMENTION-SB26,KXNFLMENTION,Mention: Announcers at Pro Football Championship,"On Feb 8, 2026",Mentions,False,8980699,6463075,37,2026-02-09T04:14:43Z,settled
+PRESPARTYVA-24,PRESPARTYVA,Who will win Virginia in the presidential election?,In 2024,Elections,True,8810367,2237323,2,2025-01-06T19:44:50.224521Z,settled
+HOUSECA13-24,HOUSECA13,Who will win the House race for CA-13?,In 2024,Elections,True,8703537,1146571,2,2025-01-03T20:20:06.845584Z,settled
+PRESPARTYNY-24,PRESPARTYNY,Who will win New York in the presidential election?,In 2024,Elections,True,8701986,3552080,2,2025-01-06T19:42:10.386279Z,settled
+KXCABOUT-29,KXCABOUT,Who will be the first to leave the Trump Cabinet?,Before 2029,Politics,True,8487408,4876261,26,2026-02-04T02:58:09Z,settled
+KXOSCARNOMPIC-26,KXOSCARNOMPIC,Oscar nominations for Best Picture?,In 2026,Entertainment,False,8425143,3949258,53,2026-01-22T17:34:02.977735Z,settled
+POPVOTEMOVAZ-24,POPVOTEMOVAZ,Popular vote margin of victory in Arizona?,In 2024,Elections,True,8201089,2256460,14,2025-01-06T20:14:24.178522Z,settled
+KXETHMINY-25DEC31,KXETHMINY,How low will Ethereum get in 2025?,In 2025,Crypto,False,7825071,1615442,11,2025-12-31T15:00:00Z,settled
+KXMADUROOUT-NMAD,KXMADUROOUT,Nicolás Maduro out?,Before 2027,Politics,False,7721020,2562944,5,2026-01-04T01:17:19.925794Z,settled
+KXAAAGASM-25MAY31,KXAAAGASM,Gas prices in the US in May 2025?,"On May 31, 2025",Economics,False,7642668,2885814,7,2025-05-31T03:59:00Z,settled
+KXPRESNOMFEDCHAIR-25,KXPRESNOMFEDCHAIR,When will Trump announce his new Chair of the Federal Reserve?,Before 2026,Politics,False,7589459,2412125,10,2026-01-30T17:09:05Z,settled
+KXGRAMSOTY-68,KXGRAMSOTY,Grammy Award for Song Of The Year?,In 2026,Entertainment,True,7353471,5595993,9,2026-02-02T03:13:40Z,settled
+PRESPARTYAZ-24,PRESPARTYAZ,Who will win Arizona in the presidential election?,In 2024,Politics,True,7245158,2471570,2,2025-01-06T19:21:21.224633Z,settled
+PRESPARTYWI-24,PRESPARTYWI,Who will win Wisconsin in the presidential election?,In 2024,Politics,True,7213622,1653413,2,2025-01-06T19:45:58.595673Z,settled
+KXSTARMERMENTIONB-26FEB19,KXSTARMERMENTIONB,What will Keir Starmer say at Prime Minister's Questions,"On Feb 18, 2026",Mentions,False,7161151,5851108,12,2026-02-19T05:05:20Z,settled
+CABINETMUSK-25,CABINETMUSK,Elon Musk nominated to the Cabinet?,"Before Feb 1, 2025",Politics,False,6808311,1277813,1,2025-02-01T04:59:00Z,settled
+KXGOVSHUT-25OCT01,KXGOVSHUT,"Government shutdown on Oct 1, 2025?","On Oct 1, 2025",Politics,False,6796800,3987043,1,2025-10-01T14:00:00Z,settled
+PRESPARTYFL-24,PRESPARTYFL,Who will win Florida in the presidential election?,In 2024,Elections,True,6745504,1865189,2,2025-01-06T19:44:02.955816Z,settled
+FED-25MAY,KXFED,Fed funds rate in May 2025?,"On May 7, 2025",Economics,False,6726096,2327697,11,2025-05-07T17:55:00Z,settled
+KXLEADEROUT-26,KXLEADEROUT,World leaders out this year?,In 2026,Politics,False,6626630,3064372,13,2026-01-01T06:24:56.15202Z,settled
+RATECUTCOUNT-24DEC31,KXRATECUTCOUNT,Number of rate cuts in 2024?,In 2024,Economics,True,6609075,2087282,15,2025-01-01T04:59:00Z,settled
+KXSENMAJORITY,KXSENMAJORITY,Who will be the Senate Majority Leader?,After the 2024 Election,Politics,True,6603809,985787,11,2025-02-01T15:00:18.406376Z,settled
+KXBTCD-26FEB0617,KXBTCD,"Bitcoin price on Feb 6, 2026 at 5pm EST?","On Feb 6, 2026 at 5pm EST",Crypto,False,6409160,2669757,70,2026-02-06T22:00:00Z,settled
+KXVOTERFK-26,KXVOTERFK,Which Senators will vote for RFK?,Before 2026,Politics,False,6397515,2882792,18,2025-02-13T17:49:21.089687Z,settled
+KXEPSTEIN-26,KXEPSTEIN,Will Trump release any of the Epstein Files?,Before Jan 2026,Politics,False,6223547,1511515,8,2025-12-19T23:40:55.215278Z,settled
+RSENATESEATS-25,RSENATESEATS,How many seats will the Republicans have in the Senate?,"On Feb 1, 2025",Politics,True,6205451,1606198,8,2025-02-01T15:00:00Z,settled
+KXLEAVEADMIN-26,KXLEAVEADMIN,Who will leave their role in the Trump Administration this year?,Before 2026,Politics,False,6194174,2309106,27,2026-01-01T06:14:08.365781Z,settled
+KXSTATEDEEPDJT-24-R,KXSTATEDEEPDJT,Will Trump win a deep blue state?,In 2024,Elections,False,6143975,982775,1,2025-01-06T20:49:20.134401Z,settled
+KXCUOMODROPOUT-25,KXCUOMODROPOUT,Who will drop out of the NYC Mayoral race?,Before election day,Politics,False,6128407,2650297,3,2025-11-04T04:59:00Z,settled
+KXSBADS-25,KXSBADS,Which companies will run ads during the Big Game?,In 2025,Entertainment,False,6118248,2501153,17,2025-02-10T03:25:15.623462Z,settled
+KXEOCOUNTDAY1-25JAN20,KXEOCOUNTDAY1,How many Executive Orders will Trump issue on Day 1?,On day 1,Politics,True,6051640,2636028,17,2025-01-21T15:00:00Z,settled
+KXIPO-25,KXIPO,Which Companies will Officially Announce an IPO in 2025?,In 2025,Companies,False,6013589,2855427,25,2026-01-01T04:59:00Z,settled
+KXSNOWSTORM-26JANNYC,KXSNOWSTORM,Snow in New York City from Jan 24–26?,In Jan 2026,Climate and Weather,False,6002638,2977586,10,2026-01-27T04:59:00Z,settled
+KXCANCOALITION-30,KXCANCOALITION,Next government of Canada?,After the next election,Politics,True,5848174,1746788,6,2025-05-27T16:25:47.882948Z,settled
+KXOSCARPIC-25,KXOSCARPIC,2025 Oscar for Best Picture?,In 2025,Entertainment,True,5808444,3887304,17,2025-03-03T03:45:51.498881Z,settled
+KXSECTREASURY-26DEC31,KXSECTREASURY,Who will be Trump’s Treasury Secretary?,"By Dec 31, 2026",Politics,True,5776757,1500930,11,2025-01-28T03:32:46.492801Z,settled
+KXDNI-26DEC31,KXDNI,Who will be Trump’s Director of National Intelligence?,"By Dec 31, 2026",Politics,True,5775465,969351,3,2025-02-12T23:28:04.152493Z,settled
+KXINAUG-25,KXINAUG,Who will be at Trump's inauguration?,At Donald Trump's second inauguration,Politics,False,5665793,2061625,29,2025-01-21T15:00:00Z,settled
+GOVPARTYVA-25,GOVPARTYVA,Virginia Governor winner?,In 2025,Politics,True,5610201,3034869,2,2025-11-07T01:01:16.341747Z,settled
+KXEOCOUNTDAY1B-25JAN20,KXEOCOUNTDAY1B,How many Executive Orders will Trump issue on Day 1? (Higher Options),On day 1,Politics,True,5600731,2285299,8,2025-01-21T15:00:00Z,settled
+KXPRESROMANIA24,KXPRESROMANIA24,Who will win the Romanian presidential election?,Next election,Elections,True,5567445,1448817,9,2025-05-19T01:24:05.838141Z,settled
+POPVOTEKHNM-2024,POPVOTEKHNM,Will Harris win New Mexico by more than 6 points?,In 2024,Politics,False,5518133,4732295,1,2025-01-06T20:16:26.229231Z,settled
+KXDANCINGWITHTHESTARS-25NOV26,KXDANCINGWITHTHESTARS,Who will win Dancing with the Stars Season 34?,Dancing with the Stars Season 34,Entertainment,True,5517859,4217251,12,2025-11-26T04:01:06.456961Z,settled
+KXVOTEPERCENTMAMDANI-25NOV04,KXVOTEPERCENTMAMDANI,What % of the vote will Mamdani get in the NYC mayoral election?,"On Nov 4, 2025",Elections,True,5511432,2492935,6,2025-12-03T01:14:13.267915Z,settled
+SENATENV-24,SENATENV,Who will win the Senate race in Nevada?,In 2024,Politics,True,5434529,1083619,2,2025-01-03T20:20:05.582907Z,settled
+KXMODELHIGH-26,KXMODELHIGH,Which AI will be the first to hit 1500 on Chatbot Arena?,Before 2026,Science and Technology,False,5410647,3442552,5,2026-01-01T08:01:23.511143Z,settled
+KXRAINNYC-26JAN04,KXRAINNYC,"Will it rain in NYC on Jan 4, 2026?","On Jan 4, 2026",Climate and Weather,False,5376236,5335450,1,2026-01-05T04:59:00Z,settled
+KXSONGSONCHARTTSWIFT-25OCT18,KXSONGSONCHARTTSWIFT,Will Taylor Swift occupy all Top 12 spots on the Billboard Hot 100 chart for Oct 18th?,"Before Oct 18, 2025",Entertainment,False,5350164,3973441,1,2025-10-13T19:00:20.028832Z,settled
+KXTRUMPPARDON-25MAY01,KXTRUMPPARDON,Who will Trump pardon in his first 100 days?,Before May 2025,Politics,False,5306606,1828230,28,2025-05-01T14:00:00Z,settled
+KXRANKLISTTIMEMAG-26JAN,KXRANKLISTTIMEMAG,Who will be on TIME’s 2025 Person of the Year Shortlist?,Before Jan 2026,Entertainment,False,5271800,2868717,52,2026-01-01T15:00:00Z,settled
+KXNYCMAYOR2ND-25,KXNYCMAYOR2ND,Second place in NYC Mayoral election?,In 2025,Elections,True,5152964,2049194,7,2025-12-02T20:52:03.572458Z,settled
+KXAAAGASM-25JUL31,KXAAAGASM,Gas prices in the US in Jul 2025?,"On Jul 31, 2025",Economics,False,4999565,1880394,9,2025-07-31T03:59:00Z,settled
+RHOUSESEATSSMALL-25,RHOUSESEATSSMALL,How many seats will Republicans have in House? (break down),"On Feb 1, 2025",Politics,True,4956663,1256057,13,2025-02-01T15:00:00Z,settled
+KXVOTETULSI-26,KXVOTETULSI,Which Senators will vote for Tulsi Gabbard?,Before 2026,Politics,False,4886569,2285909,14,2025-02-12T23:32:30.676122Z,settled
+RHOUSESEATS-25,RHOUSESEATS,How many seats will Republicans have in House of Representatives?,"On Feb 1, 2025",Politics,True,4858670,782812,11,2025-02-01T15:00:00Z,settled
+KXSUPERBOWLHEADLINE-26,KXSUPERBOWLHEADLINE,Who will headline the Pro Football Championship halftime show?,2026,Entertainment,False,4813533,2031778,50,2025-09-29T02:20:24.41293Z,settled
+KXSBSETLISTS-26,KXSBSETLISTS,What songs will be played at the half-time show?,In the 2026 Football Championship,Entertainment,False,4812959,2435596,32,2026-02-09T17:50:39Z,settled
+KXAAAGASM-25APR30,KXAAAGASM,Gas prices in the US in Apr 2025?,"On Apr 30, 2025",Economics,False,4759232,1412852,7,2025-04-30T03:59:00Z,settled
+KXBTCD-26FEB1317,KXBTCD,"Bitcoin price on Feb 13, 2026 at 5pm EST?","On Feb 13, 2026 at 5pm EST",Crypto,False,4754291,1907879,87,2026-02-13T22:00:00Z,settled
+KXELECTIONMOVVAGOV-25NOV04,KXELECTIONMOVVAGOV,Margin of victory for Abigail Spanberger in Virginia Governor election?,"On Nov 4, 2025",Elections,True,4741433,2854889,9,2025-12-02T00:14:14.220698Z,settled
+KXTOPMODEL-26FEB07,KXTOPMODEL,What will be the top AI model this week?,"On Feb 7, 2026",Science and Technology,True,4730364,3523621,10,2026-02-07T15:00:00Z,settled
+KXTRUMPPARDON-26JAN01,KXTRUMPPARDON,Who will President Trump pardon in 2025?,Before Jan 2026,Politics,False,4688594,1927069,28,2026-01-01T06:39:19.660521Z,settled
+KXHONDURASPRES-25,KXHONDURASPRES,Who will be elected President of Honduras?,In 2025,Politics,True,4682819,972663,5,2025-12-25T02:14:13.770712Z,settled
+PRESPARTYTX-24,PRESPARTYTX,Who will win Texas in the presidential election?,In 2024,Elections,True,4654059,1533705,2,2025-01-06T19:57:24.464679Z,settled
+PRESPARTYNH-24,PRESPARTYNH,Who will win New Hampshire in the presidential election?,In 2024,Elections,True,4649224,1322671,2,2025-01-06T19:55:22.068644Z,settled
+KXGOVTFUND,KXGOVTFUND,When will the government be fully funded?,Before 2027,Politics,False,4618708,2694964,10,2026-02-04T15:32:06Z,settled
+KXGRAMAOTY-68,KXGRAMAOTY,Grammy Award for Album Of The Year?,In 2026,Entertainment,True,4613214,3940542,9,2026-02-02T04:48:12Z,settled
+KXRAINNYC-26JAN02,KXRAINNYC,"Will it rain in NYC on Jan 2, 2026?","On Jan 2, 2026",Climate and Weather,False,4488408,4325397,1,2026-01-03T04:59:00Z,settled
+KXWLEADER-25,KXWLEADER,Who will Trump meet with in 2025?,Before 2026,Politics,False,4345294,2184143,8,2026-01-01T05:00:00Z,settled
+KXALIENS-26,KXALIENS,Will the US say that aliens exist in 2025?,Before 2026,Science and Technology,False,4300125,2090612,1,2026-01-01T09:25:48.515254Z,settled
+SENATETX-24,SENATETX,Who will win the Senate race in Texas?,In 2024,Politics,True,4291099,1501333,2,2025-01-03T20:20:07.615096Z,settled
+KXGOVREOPEN2025-26JAN01,KXGOVREOPEN2025,Will the U.S. government reopen in 2025?,"Sep 5, 2025 to Jan 1, 2026",Politics,False,4205749,1687358,1,2025-11-13T15:41:25.922519Z,settled
+KXFEDMENTION-26JAN,KXFEDMENTION,What will Powell say during his January press conference?,"On Jan 28, 2026",Mentions,False,4196317,2571417,44,2026-01-28T22:18:41.833521Z,settled
+SHUTDOWNBY-24,KXSHUTDOWNBY,Government shuts down in 2024?,In 2024,Politics,False,4184398,560111,1,2024-12-31T15:00:00Z,settled
+PRESPARTYNJ-24,PRESPARTYNJ,Who will win New Jersey in the presidential election?,In 2024,Elections,True,4152324,1060023,2,2025-01-06T19:36:42.811599Z,settled
+KXTRUMPOFFICIAL-25MAY01,KXTRUMPOFFICIAL,Who will the Trump admin name to a specific position before May?,In The first 100 days,Politics,False,4125812,692586,29,2025-05-01T12:00:00Z,settled
+KXDEMSWEEP-25NOV04,KXDEMSWEEP,Democratic sweep in 2025?,"On Nov 4, 2025",Elections,False,3999435,1697838,1,2025-11-07T16:56:28.490856Z,settled
+KXNFLMENTION-NFLAFCCHAMP,KXNFLMENTION,What will the announcers say during the AFC Championship?,AFC Championship,Mentions,False,3979820,2851939,28,2026-01-26T01:00:00Z,settled
+KXBTCD-26JAN3017,KXBTCD,"Bitcoin price on Jan 30, 2026 at 5pm EST?","On Jan 30, 2026 at 5pm EST",Crypto,False,3940099,1394282,50,2026-01-30T22:00:00Z,settled
+SENATEPA-24,SENATEPA,Who will win the Senate race in Pennsylvania?,In 2024,Politics,True,3916341,881793,2,2025-01-03T20:20:07.727Z,settled
+KXDOED-26,KXDOED,Will Trump eliminate the Department of Education in 2025?,Before 2026,Politics,False,3906111,397422,1,2026-01-01T06:43:15.649618Z,settled
+KXEOCOUNTDAY2-25JAN21,KXEOCOUNTDAY2,How many Executive Orders will Trump issue on Day 2?,"On Day 2 (January 21, 2025)",Politics,True,3896884,2157363,11,2025-01-22T15:00:00Z,settled
+KXRTAVATARFIREANDASH,KXRTAVATARFIREANDASH,"""Avatar: Fire And Ash"" Rotten Tomatoes score?","Dec 22, 2025",Entertainment,False,3877201,2578202,11,2025-12-22T15:00:00Z,settled
+KXFBI-26DEC31,KXFBI,Who will be Trump's FBI Director?,"By Dec 31, 2026",Politics,True,3869800,850576,5,2025-02-20T19:25:41.890404Z,settled
+KXUFSD-25,KXUFSD,When will Tesla launch unsupervised FSD?,In 2025,Science and Technology,False,3843242,1853621,11,2026-01-22T20:22:55.102074Z,settled
+FED-25SEP,KXFED,Fed funds rate in Sep 2025?,"On Sep 17, 2025",Economics,False,3837600,1267226,11,2025-09-17T17:55:00Z,settled
+KXTOPAI-26,KXTOPAI,Which companies will have a #1 AI model in 2025?,Before 2026,Science and Technology,False,3794519,2298061,11,2026-01-01T07:54:21.022753Z,settled
+KXGRAMBNA-68,KXGRAMBNA,Grammy Award for Best New Artist?,In 2026,Entertainment,True,3792071,3278943,9,2026-02-02T01:59:50Z,settled
+KXGAMEAWARDS-2025,KXGAMEAWARDS,2025 Game of the Year?,In 2025,Entertainment,True,3778656,2793990,21,2025-12-12T15:04:09.00096Z,settled
+KXOSCARNOMACTO-26,KXOSCARNOMACTO,Oscar nominations for Best Actor?,In 2026,Entertainment,False,3771359,1909006,24,2026-01-22T15:11:51.207889Z,settled
+KXEPSTEIN-25,KXEPSTEIN,Will Trump declassify Epstein documents in his first 100 days?,Before May 2025,Politics,False,3660012,734156,1,2025-05-01T14:00:00Z,settled
+KXFEDDECISION-24DEC,KXFEDDECISION,Fed decision in Dec 2024?,"On Dec 18, 2024",Economics,True,3643679,1743122,5,2024-12-18T18:55:00Z,settled
+KXBERNIEMENTION-26FEB13,KXBERNIEMENTION,What will Bernie say at his Greensboro rally?,"On Feb 12, 2026",Mentions,False,3630608,2059390,21,2026-02-13T15:00:00Z,settled
+KXGOLDCARDS-25,KXGOLDCARDS,How many Gold Cards will Trump issue in 2025?,In 2025,Politics,True,3629803,1844968,9,2025-12-31T15:00:00Z,settled
+KXWISCOTUS-25,KXWISCOTUS,Who will win the Wisconsin Supreme Court seat?,In 2025,Politics,True,3571663,2440468,2,2025-04-02T13:58:52.071958Z,settled
+POPVOTEMOVNC-24,POPVOTEMOVNC,Popular vote margin of victory in North Carolina?,In 2024,Elections,True,3527770,1834543,14,2025-01-06T20:17:21.497754Z,settled
+CABINETRFK-25,CABINETRFK,Robert F. Kennedy Jr. nominated to the Cabinet?,"Before Feb 1, 2025",Politics,False,3492893,394756,1,2025-01-20T17:05:55.882206Z,settled
+KXGDP-25JUL30,KXGDP,US GDP growth in Q2 2025?,In Q2 2025,Economics,False,3422182,1292617,14,2025-07-30T12:29:00Z,settled
+POPVOTEMOVGA-24,POPVOTEMOVGA,Popular vote margin of victory in Georgia?,In 2024,Elections,True,3391469,1758301,14,2025-01-06T20:20:13.424694Z,settled
+TIPPINGPOINT-24,TIPPINGPOINT,Tipping point in the presidential election?,In 2024,Elections,True,3388121,1060395,20,2025-01-06T19:04:36.060477Z,settled
+TIKTOKBAN-25APR30,KXTIKTOKBAN,US bans TikTok before May 2025?,Before May 2025,Companies,False,3353941,1888824,1,2025-01-19T05:49:21.452387Z,settled
+KXGRAMROTY-68,KXGRAMROTY,Grammy Award for Record Of The Year?,In 2026,Entertainment,True,3292425,2673123,9,2026-02-02T04:48:50Z,settled
+KXNASDAQ100Y-26JAN01H1000,KXNASDAQ100Y,Nasdaq-100 price end of 2025?,"Dec 31, 2025",Financials,True,3236334,1525511,25,2025-12-31T21:00:00Z,settled
+KXRANKLISTGOOGLESEARCHTOP5-26JAN,KXRANKLISTGOOGLESEARCHTOP5,Top 5 Most Searched People on Google in 2025?,Before Jan 2026,Entertainment,False,3192630,1571136,44,2025-12-04T16:00:29.371714Z,settled
+KXEMMYDSERIES-77,KXEMMYDSERIES,Emmy Award for Drama Series?,77th Emmy Awards,Entertainment,True,3187898,2446079,11,2025-09-15T03:03:16.430348Z,settled
+PRESPARTYCA-24,PRESPARTYCA,Who will win California in the presidential election?,In 2024,Elections,True,3183054,1190932,2,2025-01-06T19:19:18.139928Z,settled
+KXBTCD-24NOV2217,KXBTCD,"Bitcoin price on Nov 22, 2024 at 5pm EST?","On Nov 22, 2024",Crypto,False,3151014,942593,50,2024-11-22T22:00:00Z,settled
+KXNFLMENTION-NFLNFCCHAMP,KXNFLMENTION,What will the announcers say during the NFC Championship?,NFC Championship,Mentions,False,3127294,2336092,28,2026-01-26T04:30:00Z,settled
+KXAAAGASM-25AUG31,KXAAAGASM,Gas prices in the US in Aug 2025?,"On Aug 31, 2025",Economics,False,3098025,1000869,11,2025-08-31T03:59:00Z,settled
+KXTRUMPMENTION-26JAN18,KXTRUMPMENTION,What will Trump say during his meetings with the PM of the Slovak Republic?,"On Jan 17, 2026",Mentions,False,3091669,2072653,17,2026-01-18T15:00:00Z,settled
+KXEPSTEINBILL-26JAN01,KXEPSTEINBILL,House passes bill to release Epstein files this year?,"Before Jan 1, 2026",Politics,False,3079100,2406820,1,2025-11-18T20:01:10.9532Z,settled
+HOUSECA45-24,HOUSECA45,Who will win the House race for CA-45?,In 2024,Elections,True,3063342,366175,2,2025-01-03T20:20:04.267864Z,settled
+KXVOTEPATEL-26,KXVOTEPATEL,Which Senators will vote for Kash Patel?,Before 2026,Politics,False,3034138,1528345,6,2025-02-20T19:31:12.257061Z,settled
+CONTROLH-2024,CONTROLH,Which party will win the House?,In 2024,Politics,True,3009697,689758,2,2025-02-01T15:00:00Z,settled
+KXOSCARNOMDIR-26,KXOSCARNOMDIR,Oscar nominations for Best Director?,In 2026,Entertainment,False,3007522,1810346,37,2026-01-22T16:27:26.84861Z,settled
+KXSPEAKER,KXSPEAKER,Who will be the Speaker of the House?,After the 2024 Election,Politics,True,2980553,829036,19,2025-02-01T15:00:18.245597Z,settled
+KXBTCRESERVE-26,KXBTCRESERVE,Will Trump create a National Bitcoin Reserve in 2025?,Before 2026,Politics,False,2979230,751312,1,2026-01-01T06:52:33.74977Z,settled
+KXBTCD-26JAN2317,KXBTCD,"Bitcoin price on Jan 23, 2026 at 5pm EST?","On Jan 23, 2026 at 5pm EST",Crypto,False,2958096,979264,50,2026-01-23T22:00:00Z,settled
+KXSPOTIFYXMAS-25DEC25,KXSPOTIFYXMAS,Top global Spotify song on Christmas Day?,"On Dec 25, 2025 Chart",Entertainment,True,2958076,1418675,15,2025-12-26T15:20:50.888541Z,settled
+BTCMAX100-24,KXBTCMAX100,When will Bitcoin hit $100k?,In 2024,Crypto,False,2886829,961469,10,2024-12-05T03:25:26.989694Z,settled
+KXAUCTIONPIKACHU-26,KXAUCTIONPIKACHU,What will Logan Paul’s Pikachu Illustrator go for at auction?,In 2026,Financials,False,2850166,1039482,10,2026-02-16T15:12:53Z,settled
+KXFEDDECISION-25MAR,KXFEDDECISION,Fed decision in Mar 2025?,"On Mar 19, 2025",Economics,True,2849985,1683839,5,2025-03-19T17:55:00Z,settled
+KXATTYGENVA-25,KXATTYGENVA,Who will win the Attorney General race in Virginia?,In 2025,Elections,True,2847040,1044552,2,2025-11-07T03:20:25.348878Z,settled
+KXBTCD-26JAN1617,KXBTCD,"Bitcoin price on Jan 16, 2026 at 5pm EST?","On Jan 16, 2026 at 5pm EST",Crypto,False,2840329,918627,50,2026-01-16T22:00:00Z,settled
+KXPCTVOTEMAM-26,KXPCTVOTEMAM,Will Zohran Mamdani win at least 50% of the vote in the NYC Mayoral Election?,In 2026,Elections,False,2750377,461822,1,2025-12-02T20:56:53.499674Z,settled
+SENATEOH-24,SENATEOH,Who will win the Senate race in Ohio?,In 2024,Politics,True,2696852,794763,2,2025-01-03T20:20:02.358429Z,settled
+KXTRUMPMENTION-26FEB04,KXTRUMPMENTION,What will Trump say during his meetings with the President of Colombia?,"On Feb 3, 2026",Mentions,False,2672479,2336538,18,2026-02-04T05:21:32Z,settled
+KXAAAGASM-25OCT31,KXAAAGASM,Gas prices in the US in Oct 2025?,"On Oct 31, 2025",Economics,False,2671086,578139,11,2025-10-31T03:59:00Z,settled
+PRESPARTYMN-24,PRESPARTYMN,Who will win Minnesota in the presidential election?,In 2024,Elections,True,2607519,899528,2,2025-01-06T19:18:03.421771Z,settled
+KXMAYORSEATTLE-25,KXMAYORSEATTLE,Who will win the Mayor election in Seattle?,In 2025,Elections,True,2600292,631566,9,2025-11-16T10:04:13.847298Z,settled
+RATECUT-24SEP18,KXRATECUT,Fed rate cut before Sep 19th?,"Before Sep 19, 2024",Economics,False,2598630,682464,1,2024-09-19T03:59:00Z,settled
+HOUSETN7S-25,HOUSETN7S,Which party will win the Special Election for TN-07?,In 2025,Politics,True,2584615,1450707,2,2025-12-04T15:09:24.38984Z,settled
+KXCPIYOY-25JUN,KXCPIYOY,Inflation in Jun 2025? (CPI YoY),In Jun 2025,Economics,False,2568869,1187490,11,2025-07-15T12:29:00Z,settled
+KXTRUMPMENTION-26JAN28,KXTRUMPMENTION,What will Trump say during his remarks in Iowa?,"On Jan 27, 2026",Mentions,False,2548843,1786156,34,2026-01-28T02:15:53.643704Z,settled
+KXSPOTIFYW-26FEB12,KXSPOTIFYW,"Top Song on Weekly Top Songs USA on Feb 12, 2026?","On Feb 12, 2026 Chart",Entertainment,True,2534819,2326733,20,2026-02-13T04:59:00Z,settled
+RATECUT-24JUL31,KXRATECUT,Fed rate cut by July?,By Jul 2024,Economics,False,2529767,323006,1,2024-08-01T03:59:00Z,settled
+KXBTCD-24DEC0617,KXBTCD,"Bitcoin price on Dec 6, 2024 at 5pm EST?","On Dec 6, 2024",Crypto,False,2499709,691010,50,2024-12-06T22:00:00Z,settled
+KXGDP-25APR30,KXGDP,US GDP growth in Q1 2025?,In Q1 2025,Economics,False,2467855,977929,10,2025-04-30T12:25:00Z,settled
+KXAAAGASW-26FEB16,KXAAAGASW,US Gas prices up this week?,"On Feb 16, 2026",Economics,False,2466533,2174074,5,2026-02-16T04:59:00Z,settled
+KXBTCD-24NOV1517,KXBTCD,"Bitcoin price on Nov 15, 2024 at 5pm EST?","On Nov 15, 2024",Crypto,False,2460906,706045,58,2024-11-15T22:00:00Z,settled
+FEDDECISION-24SEP,KXFEDDECISION,Fed decision in Sep 2024?,"In Sep 18, 2024",Economics,True,2447178,1054589,5,2024-09-18T17:55:00Z,settled
+KXEPSTEINLIST-26,KXEPSTEINLIST,Who will be named in the Epstein files released in 2025?,In 2025,Politics,False,2441839,1221807,18,2025-11-14T23:37:06.035459Z,settled
+POPVOTEMOVNV-2024,POPVOTEMOVNV,Popular vote margin of victory in Nevada?,In 2024,Elections,True,2436110,972720,14,2025-01-06T20:13:08.93827Z,settled
+KXEOWEEK-26JAN17,KXEOWEEK,Will Trump sign an executive order this week (1/11-1/17)?,"Jan 11, 2026 to Jan 17, 2026",Politics,False,2432985,2025721,1,2026-01-17T18:16:49.513044Z,settled
+KXCEOASTRONOMER-25,KXCEOASTRONOMER,Will the CEO of Astronomer leave this month?,In 2025,Companies,False,2415264,1206854,1,2025-07-19T19:22:08.362366Z,settled
+KXRTCAPTAINAMERICA,KXRTCAPTAINAMERICA,"""Captain America: Brave New World"" Rotten Tomatoes score?",On Monday following wide release,Entertainment,False,2405348,935604,10,2025-02-17T15:00:00Z,settled
+KXTRUMPMENTION-26FEB20,KXTRUMPMENTION,What will Trump say during his Georgia rally?,"On Feb 19, 2026",Mentions,False,2394981,1989678,31,2026-02-19T23:35:35Z,settled
+FED-24SEP,KXFED,Fed funds rate in Sep 2024?,"In Sep 18, 2024",Economics,False,2382158,616882,8,2024-09-18T17:55:00Z,settled
+KXALBUMSALES-FAL,KXALBUMSALES,"How many album sales will J. Cole's ''The Fall-Off' have on the chart dated Feb 12, 2026?",The Fall-Off,Entertainment,False,2363566,712036,14,2026-02-13T04:59:00Z,settled
+KXVOTEHEGSETH-26,KXVOTEHEGSETH,Which Senators will vote for Pete Hegseth?,Before 2026,Politics,False,2363018,1309017,13,2025-01-25T05:43:24.731676Z,settled
+KXSURVIVOR-26JAN31,KXSURVIVOR,Who will win Survivor Season 49?,Survivor Season 49,Entertainment,True,2362782,1755911,17,2025-12-18T04:13:56.433786Z,settled
+KXLASTWORDMENTION-26FEB10,KXLASTWORDMENTION,Mention: Ro Khanna on MSNBC,"On Feb 9, 2026",Mentions,False,2354248,2329437,12,2026-02-10T14:47:20Z,settled
+KXPRESVISIT-26,KXPRESVISIT,What countries will Trump visit this year?,Before 2026,Politics,False,2353114,541192,37,2026-01-01T15:00:00Z,settled
+DEBATES24,KXDEBATES24,How many presidential debates in 2024?,In 2024,Politics,True,2352425,480180,4,2024-11-05T15:00:00Z,settled
+KXCODINGMODEL-26JAN,KXCODINGMODEL,"Which AI company will have the best coding model on Jan 1, 2026?","On Jan 1, 2026",Science and Technology,True,2346354,1016730,7,2026-01-01T10:06:47.357998Z,settled
+KXBTC-24NOV2117,KXBTC,"Bitcoin price range on Nov 21, 2024 at 5pm EST?","On Nov 21, 2024",Crypto,True,2317050,1165174,40,2024-11-21T22:00:00Z,settled
+KXNYCSNOWM-26JAN,KXNYCSNOWM,Snow in New York City in Jan 2026?,In Jan 2026,Climate and Weather,False,2305632,1099209,7,2026-02-01T18:58:59Z,settled
+KXSWIFTWEEKSNUM1-26JAN01,KXSWIFTWEEKSNUM1,How many weeks will Taylor Swift spend at #1 on the Billboard Hot 100 during 2025?,Billboard Hot 100 2025,Entertainment,False,2302198,1460713,5,2025-12-23T16:39:53.400078Z,settled
+KXBTCD-26FEB0517,KXBTCD,"Bitcoin price on Feb 5, 2026 at 5pm EST?","On Feb 5, 2026 at 5pm EST",Crypto,False,2295316,888726,49,2026-02-05T22:00:00Z,settled
+KXLLM1-26JAN31,KXLLM1,Best AI in Jan 2026?,"On Jan 31, 2026",Science and Technology,True,2289297,1850987,7,2026-01-31T15:00:00Z,settled
+KXSHUTDOWNBYDATE-25MAR18,KXSHUTDOWNBYDATE,"Government shutdown before Mar 19, 2025?","Before Mar 19, 2025",Politics,False,2280430,590279,1,2025-03-18T14:00:00Z,settled
+KXCPI-25JUL,KXCPI,CPI in Jul 2025?,In Jul 2025,Economics,False,2263062,1225969,6,2025-08-12T12:29:00Z,settled
+KXAAAGASM-25SEP30,KXAAAGASM,Gas prices in the US in Sep 2025?,"On Sep 30, 2025",Economics,False,2257003,745811,10,2025-09-30T03:59:00Z,settled
+KXNJ11SD-26,KXNJ11SD,NJ-11 special Democratic nominee?,In 2026,Elections,True,2250361,966417,12,2026-02-14T19:23:21Z,settled
+KXGDP-25OCT30,KXGDP,US GDP growth in Q3 2025?,In Q3 2025,Economics,False,2240243,759039,9,2025-10-30T12:29:00Z,settled
+KXPAYROLLS-25APR,KXPAYROLLS,Jobs numbers in Apr 2025?,In Apr 2025,Economics,False,2232242,1220423,7,2025-05-02T12:25:00Z,settled
+KXRTMOANA2,KXRTMOANA2,"""Moana 2"" Rotten Tomatoes score?",On Monday following wide release,Entertainment,False,2230769,726182,9,2024-12-02T15:00:00Z,settled
+POPVOTEMOVWI-24,POPVOTEMOVWI,Popular vote margin of victory in Wisconsin?,In 2024,Elections,True,2226470,1301310,14,2025-01-06T20:16:40.125879Z,settled
+KXPRESCHILE-25,KXPRESCHILE,Who will win the Chilean presidential election?,In 2025,Politics,True,2226141,1072706,12,2025-12-15T04:19:33.84087Z,settled
+KXBTC-24NOV1317,KXBTC,"Bitcoin price range on Nov 13, 2024 at 5pm EST?","On Nov 13, 2024",Crypto,True,2186285,1079843,40,2024-11-13T22:00:00Z,settled
+KXCPIYOY-25JUL,KXCPIYOY,Inflation in Jul 2025? (CPI YoY),In Jul 2025,Economics,False,2172542,1094112,8,2025-08-12T12:29:00Z,settled
+KXNCAAMENTION-CFBC26,KXNCAAMENTION,What will the announcers say during the College Football Playoff National Championship?,College Football Playoff National Championship,Mentions,False,2165627,1626355,20,2026-01-20T05:30:00Z,settled
+KXCPI-25APR,KXCPI,CPI in Apr 2025?,In Apr 2025,Economics,False,2161978,685822,7,2025-05-13T12:25:00Z,settled
+KXBTCD-26JAN3117,KXBTCD,"Bitcoin price on Jan 31, 2026 at 5pm EST?","On Jan 31, 2026 at 5pm EST",Crypto,False,2161943,1066352,40,2026-01-31T22:00:00Z,settled
+KXNYCMAYORDROUND-25,KXNYCMAYORDROUND,How many rounds will the NYC Democratic Mayoral primary be?,Before 2025,Elections,True,2125738,1079810,12,2025-07-23T03:07:22.666643Z,settled
+KXBOLIVIAPRES-25,KXBOLIVIAPRES,Who will win the Bolivia presidential election?,In 2025,Politics,True,2122886,393806,11,2025-11-08T23:36:02.514057Z,settled
+KXFEDMENTION-25DEC,KXFEDMENTION,What will Powell say during his Dec 2025 press conference?,"On Dec 10, 2025",Politics,False,2113402,1504035,41,2025-12-10T22:58:51.35992Z,settled
+KXHIGHNY-26JAN10,KXHIGHNY,"Highest temperature in NYC on Jan 10, 2026?","On Jan 10, 2026",Climate and Weather,True,2087672,2039087,6,2026-01-11T04:59:00Z,settled
+KXBTC-24NOV2217,KXBTC,"Bitcoin price range on Nov 22, 2024 at 5pm EST?","On Nov 22, 2024",Crypto,True,2084363,917736,40,2024-11-22T22:00:00Z,settled
+KXNETFLIXRANKSHOWRUNNERUP-26JAN05,KXNETFLIXRANKSHOWRUNNERUP,#2 US Netflix Show this week?,"The chart published on Jan 6, 2026",Entertainment,True,2083464,1548936,12,2026-01-06T04:59:00Z,settled
+KXRTMICKEY17,KXRTMICKEY17,"""Mickey 17"" Rotten Tomatoes score?",On Monday following wide release,Entertainment,False,2077029,693845,14,2025-03-10T14:00:00Z,settled
+KXCPIYOY-25MAY,KXCPIYOY,Inflation in May 2025? (CPI YoY),In May 2025,Economics,False,2076534,907136,11,2025-06-11T12:25:00Z,settled
+POPVOTEMOVMI-24,POPVOTEMOVMI,Popular vote margin of victory in Michigan?,In 2024,Elections,True,2076409,1323645,14,2025-01-06T20:14:50.503682Z,settled
+KXAAAGASW-26JAN12,KXAAAGASW,US Gas prices up this week?,"On Jan 12, 2026",Economics,False,2075950,1551130,1,2026-01-12T04:59:00Z,settled
+KXBTCD-24DEC0517,KXBTCD,"Bitcoin price on Dec 5, 2024 at 5pm EST?","On Dec 5, 2024",Crypto,False,2073138,522586,40,2024-12-05T22:00:00Z,settled
+KXDEBTSHRINK-28NOV11,KXDEBTSHRINK,Will Trump reduce the national debt?,Before 2029,Politics,False,2071488,749805,1,2025-06-04T18:57:44.353263Z,settled
+KXBTCD-24NOV2117,KXBTCD,"Bitcoin price on Nov 21, 2024 at 5pm EST?","On Nov 21, 2024",Crypto,False,2064587,656625,40,2024-11-21T22:00:00Z,settled
+KXGABBARDCOUNT-25,KXGABBARDCOUNT,How many Senators will vote for Tulsi Gabbard as Director of National Intelligence?,Before Aug 2025,Politics,True,2036501,1197122,13,2025-02-12T23:29:16.498351Z,settled
+KXFEDDECISION-25JAN,KXFEDDECISION,Fed decision in Jan 2025?,"On Jan 29, 2025",Economics,True,2033985,1326738,5,2025-01-29T18:55:00Z,settled
+KXRTSNOWWHITE,KXRTSNOWWHITE,"""Disney's Snow White"" Rotten Tomatoes score?","Mar 24, 2025",Entertainment,False,2031043,755040,16,2025-03-24T14:00:00Z,settled
+KXWAYMOCITIES-25,KXWAYMOCITIES,How many cities will Waymo be operating in at the end of 2025?,"On Dec 31, 2025",Science and Technology,True,2027348,846189,14,2025-12-31T15:00:00Z,settled
+KXSHUTDOWNBY-25,KXSHUTDOWNBY,Government shutdown in 2025?,Before 2026,Politics,False,2014502,611417,1,2025-10-01T14:01:42.094763Z,settled
+KXSECPRESSMENTION-26FEB21,KXSECPRESSMENTION,What will Karoline Leavitt say in the next press briefing?,"Before Feb 21, 2026",Mentions,False,2010628,1730376,28,2026-01-26T21:19:14.696767Z,settled
+KXPARTYWINNL-25,KXPARTYWINNL,Who will win the Dutch general election?,Before 2025,Elections,True,1979060,372590,15,2025-11-10T04:42:03.709631Z,settled
+KXAAAGASW-26JAN19,KXAAAGASW,US Gas prices up this week?,"Jan 19, 2026",Economics,False,1978958,1494021,3,2026-01-19T04:59:00Z,settled
+KXSWIFTMENTION-25OCT06,KXSWIFTMENTION,What will Taylor Swift say during The Tonight Show?,"On Oct 6, 2025",Politics,False,1977542,1159687,29,2025-10-07T14:00:00Z,settled
+KXBTC-24NOV1217,KXBTC,"Bitcoin price range on Nov 12, 2024 at 5pm EST?","On Nov 12, 2024",Crypto,True,1969478,887165,40,2024-11-12T22:00:00Z,settled
+KXBTCMINY-25,KXBTCMINY,How low will Bitcoin get in 2025?,In 2025,Crypto,False,1958271,549889,5,2026-01-01T04:59:00Z,settled
+KXLATENIGHTMENTION-26JAN20,KXLATENIGHTMENTION,What will A$AP Rocky say during The Tonight Show Starring Jimmy Fallon?,"On Jan 19, 2026",Mentions,False,1953709,1318037,9,2026-01-20T15:00:00Z,settled
+KXEOWEEK-26JAN10,KXEOWEEK,Will Trump sign an executive order this week (1/4-1/10)?,"Jan 4, 2026 to Jan 10, 2026",Politics,False,1952922,866008,1,2026-01-11T04:59:00Z,settled
+KXTRUMPMENTIONB-25DEC25,KXTRUMPMENTIONB,What will Trump say during his Christmas Eve service member calls?,"On Dec 24, 2025",Mentions,False,1949261,1104935,20,2025-12-25T15:00:00Z,settled
+KXDEPORTCOUNT-25,KXDEPORTCOUNT,Deportations in Trump's first year?,In 2025,Politics,False,1946586,704107,5,2026-01-28T00:06:52.826051Z,settled
+KXBTCD-24DEC0417,KXBTCD,"Bitcoin price on Dec 4, 2024 at 5pm EST?","On Dec 4, 2024",Crypto,False,1936667,488551,40,2024-12-04T22:00:00Z,settled
+KXNEXTCANADAPM-26,KXNEXTCANADAPM,Who will be the next Prime Minister of Canada?,Before 2026,Politics,True,1928432,734218,8,2025-03-10T14:04:39.739305Z,settled
+KXBTCD-24NOV1917,KXBTCD,"Bitcoin price on Nov 19, 2024 at 5pm EST?","On Nov 19, 2024",Crypto,False,1927054,510283,40,2024-11-19T22:00:00Z,settled
+KXPRESPOLAND,KXPRESPOLAND,Who will win the Polish presidential election?,In the 2025 election,Politics,True,1925805,653554,8,2025-06-02T19:26:23.474508Z,settled
+KXBTC-24NOV2517,KXBTC,"Bitcoin price range on Nov 25, 2024 at 5pm EST?","On Nov 25, 2024",Crypto,True,1922073,1146656,40,2024-11-25T22:00:00Z,settled
+FED-24JUN,KXFED,Fed funds rate in June?,In Jun 2024,Economics,False,1921732,397377,7,2024-06-12T17:55:00Z,settled
+KXBTCD-24NOV2517,KXBTCD,"Bitcoin price on Nov 25, 2024 at 5pm EST?","On Nov 25, 2024",Crypto,False,1915155,694627,40,2024-11-25T22:00:00Z,settled
+KXBTC-24NOV1417,KXBTC,"Bitcoin price range on Nov 14, 2024 at 5pm EST?","On Nov 14, 2024",Crypto,True,1900093,1030645,40,2024-11-14T22:00:00Z,settled
+KXFTACOUNTRIES-26,KXFTACOUNTRIES,Which countries will the US enact a trade deal with this year?,Before 2026,Politics,False,1898335,805050,18,2026-01-01T07:22:14.480881Z,settled
+KXBTCD-26FEB0317,KXBTCD,"Bitcoin price on Feb 3, 2026 at 5pm EST?","On Feb 3, 2026 at 5pm EST",Crypto,False,1891644,775718,40,2026-02-03T22:00:00Z,settled
+KXLLM1-25MAR31,KXLLM1,Best AI in Mar 2025?,"On Mar 31, 2025",Science and Technology,True,1889416,679939,5,2025-03-31T14:00:00Z,settled
+KXRTMUFASA,KXRTMUFASA,"""Mufasa"" Rotten Tomatoes score?",On Monday following wide release,Entertainment,False,1881390,435530,11,2024-12-23T15:00:00Z,settled
+KXRTMINECRAFT,KXRTMINECRAFT,"""A Minecraft Movie"" Rotten Tomatoes score?","Apr 7, 2025",Entertainment,False,1868178,621111,23,2025-04-07T14:00:00Z,settled
+KXRTWICKEDFORGOOD,KXRTWICKEDFORGOOD,"""Wicked: For Good"" Rotten Tomatoes score?","Nov 24, 2025",Entertainment,False,1864802,1172851,15,2025-11-24T15:00:00Z,settled
+KXVOTEPERCENTCUOMO-25NOV04,KXVOTEPERCENTCUOMO,What % of the vote will Cuomo get in the NYC mayoral election?,"On Nov 4, 2025",Elections,True,1858900,722653,7,2025-12-03T01:08:17.449236Z,settled
+KX60MINMENTION-26FEB16,KX60MINMENTION,What will RFK say on 60 Minutes?,"On Feb 15, 2026",Mentions,False,1857403,1733176,17,2026-02-16T01:30:09Z,settled
+KXCABCOUNT-25MAR01,KXCABCOUNT,How many Cabinet members will Trump get confirmed before March?,"Before March 1, 2025",Politics,True,1856470,988246,19,2025-03-01T15:00:00Z,settled
+KXNFLMENTION-26JAN18LACHI,KXNFLMENTION,What will the announcers say during the Los Angeles R at Chicago professional football game?,Los Angeles R at Chicago,Mentions,False,1856278,1430999,22,2026-01-19T04:30:00Z,settled
+KXOSCARNOMSUPACTR-26,KXOSCARNOMSUPACTR,Oscar nominations for Best Supporting Actress?,In 2026,Entertainment,False,1855855,672181,24,2026-01-22T15:42:06.384539Z,settled
+ROBOTAXIOUT-26,KXROBOTAXIOUT,Tesla robotaxi public release in 2025?,Before 2026,Companies,False,1855163,742177,1,2025-12-21T02:57:19.859163Z,settled
+KXBERNIEMENTION-26FEB14,KXBERNIEMENTION,What will Bernie say during his Durham rally?,"On Feb 13, 2026",Mentions,False,1853847,1176539,21,2026-02-13T21:01:27Z,settled
+KXBTCD-26FEB0417,KXBTCD,"Bitcoin price on Feb 4, 2026 at 5pm EST?","On Feb 4, 2026 at 5pm EST",Crypto,False,1852613,774486,40,2026-02-04T22:00:00Z,settled
+KXMEASLES-2531,KXMEASLES,Measles cases in 2025?,In 2025,Health,False,1822603,622485,24,2026-01-01T04:59:00Z,settled
+KXBTCD-26FEB1117,KXBTCD,"Bitcoin price on Feb 11, 2026 at 5pm EST?","On Feb 11, 2026 at 5pm EST",Crypto,False,1820230,612264,40,2026-02-11T22:00:00Z,settled
+FED-25JUL,KXFED,Fed funds rate in Jul 2025?,"On Jul 30, 2025",Economics,False,1817360,953993,11,2025-07-30T17:55:00Z,settled
+KXBTCD-24DEC0917,KXBTCD,"Bitcoin price on Dec 9, 2024 at 5pm EST?","On Dec 9, 2024",Crypto,False,1815006,532899,40,2024-12-09T22:00:00Z,settled
+KXAAAGASM-26JAN31,KXAAAGASM,Gas prices in the US in Jan 2026?,"On Jan 31, 2026",Economics,False,1811844,1033233,11,2026-01-31T04:59:00Z,settled
+KXCPIYOY-26JAN,KXCPIYOY,Inflation in Jan 2026? (CPI YoY),In Jan 2026,Economics,False,1801215,985517,11,2026-02-13T13:29:00Z,settled
+CONTROLS-2024,CONTROLS,Which party will win the Senate?,In 2024,Politics,True,1783270,717061,2,2025-02-01T15:00:00Z,settled
+RATECUT-24JUN12,KXRATECUT,Fed rate cut by June?,By Jun 2024,Economics,False,1780280,438614,1,2024-06-13T03:59:00Z,settled
+KXSONGSONCHARTTSWIFT2-25NOV01,KXSONGSONCHARTTSWIFT2,Will Taylor Swift occupy the Top 2 spots on the Billboard Hot 100 chart for Nov 1st?,"Nov 1, 2025",Entertainment,False,1775498,1649074,1,2025-10-27T21:53:27.362103Z,settled
+KXTRUMPMENTION-26JAN03,KXTRUMPMENTION,What will Trump say during the news conference at Mar-a-Lago?,"On Jan 3, 2026",Mentions,False,1769034,1033556,27,2026-01-03T22:42:28.23174Z,settled
+KXWICOURTMOV-25,KXWICOURTMOV,Margin of victory in Wisconsin Supreme Court race?,In 2025,Politics,True,1757073,858279,22,2025-05-16T14:31:40.180041Z,settled
+KXRTTHEMONKEY,KXRTTHEMONKEY,"""The Monkey"" Rotten Tomatoes score?",On Monday following wide release,Entertainment,False,1752423,692081,10,2025-02-24T15:00:00Z,settled
+KXBTCD-26FEB0917,KXBTCD,"Bitcoin price on Feb 9, 2026 at 5pm EST?","On Feb 9, 2026 at 5pm EST",Crypto,False,1748917,665185,40,2026-02-09T22:00:00Z,settled
+KXTOPALBUMSPOTIFYUSA-25DEC31,KXTOPALBUMSPOTIFYUSA,Top Album on Spotify U.S this year?,"On Dec 31, 2025 at 10:00 AM ET",Entertainment,True,1741195,1443014,9,2025-12-03T14:42:29.067234Z,settled
+KXFTNMENTION-26JAN19B,KXFTNMENTION,What will Kristi Noem say during Face the Nation?,"On Jan 18, 2026",Mentions,False,1733477,1475587,12,2026-01-19T15:00:00Z,settled
+KXVOTEPERCENTSLIWA-25NOV04,KXVOTEPERCENTSLIWA,What % of the vote will Sliwa get in the NYC mayoral election?,"On Nov 4, 2025",Elections,True,1721261,687847,6,2025-12-03T01:06:48.325044Z,settled
+FED-25JUN,KXFED,Fed funds rate in Jun 2025?,"On Jun 18, 2025",Economics,False,1718053,1054904,11,2025-06-18T17:55:00Z,settled
+KXPORTUGALPRES-26FEB15,KXPORTUGALPRES,Portugal Presidential election winner?,In 2026,Politics,True,1714918,704177,8,2026-02-13T21:35:42Z,settled
+KXRAINNYC-26FEB07,KXRAINNYC,"Will it rain in NYC on Feb 7, 2026?","On Feb 7, 2026",Climate and Weather,False,1709342,1015833,1,2026-02-08T04:59:00Z,settled
+KXNFLMENTION-26JAN11LACNE,KXNFLMENTION,What will the announcers say during the Los Angeles C at New England professional football game?,Los Angeles C at New England,Mentions,False,1709340,1250656,24,2026-01-12T06:00:00Z,settled
+KXBTCD-26JAN2917,KXBTCD,"Bitcoin price on Jan 29, 2026 at 5pm EST?","On Jan 29, 2026 at 5pm EST",Crypto,False,1708823,855173,40,2026-01-29T22:00:00Z,settled
+KXBTCD-24NOV2017,KXBTCD,"Bitcoin price on Nov 20, 2024 at 5pm EST?","On Nov 20, 2024",Crypto,False,1706092,538789,40,2024-11-20T22:00:00Z,settled
+PRESPARTYME-24,PRESPARTYME,Who will win Maine in the presidential election?,In 2024,Elections,True,1697186,575993,2,2025-01-06T19:21:32.930226Z,settled
+KXTRUMPSAY-26JAN05,KXTRUMPSAY,What will Trump say this week?,"Before Jan 5, 2026",Mentions,False,1689095,1254220,27,2026-01-05T15:00:00Z,settled
+KXBTCD-24DEC0217,KXBTCD,"Bitcoin price on Dec 2, 2024 at 5pm EST?","On Dec 2, 2024",Crypto,False,1678665,533046,40,2024-12-02T22:00:00Z,settled
+KXPAYROLLS-25AUG,KXPAYROLLS,Jobs numbers in Aug 2025?,In Aug 2025,Economics,False,1676626,1080687,10,2025-09-05T12:29:00Z,settled
+KXBTCD-26FEB1817,KXBTCD,"Bitcoin price on Feb 18, 2026 at 5pm EST?","On Feb 18, 2026 at 5pm EST",Crypto,False,1673207,724677,40,2026-02-18T22:00:00Z,settled
+KXBTC-24NOV1917,KXBTC,"Bitcoin price range on Nov 19, 2024 at 5pm EST?","On Nov 19, 2024",Crypto,True,1669341,870720,40,2024-11-19T22:00:00Z,settled
+KXNFLMENTION-26JAN12HOUPIT,KXNFLMENTION,What will the announcers say during the Houston at Pittsburgh professional football game?,Houston at Pittsburgh,Mentions,False,1665708,1259740,21,2026-01-13T06:15:00Z,settled
+KXNEWPARTYMUSK,KXNEWPARTYMUSK,Will Elon Musk create a new political party this year?,In 2026,Politics,False,1655431,222119,1,2026-01-01T04:59:00Z,settled
+KXLLM1-26FEB07,KXLLM1,Best AI this week?,"On Feb 7, 2026",Science and Technology,True,1646795,849932,7,2026-02-07T15:00:00Z,settled
+KXOSCARACTR-25,KXOSCARACTR,2025 Oscar for Best Actress?,In 2025,Entertainment,True,1644912,1191243,13,2025-03-03T03:40:06.948834Z,settled
+KXRTWICKED,KXRTWICKED,"""Wicked"" Rotten Tomatoes score?",On Monday following wide release,Entertainment,False,1639156,546486,9,2024-11-25T15:00:00Z,settled
+KXPAYROLLS-25JUL,KXPAYROLLS,Jobs numbers in Jul 2025?,In Jul 2025,Economics,False,1633469,1069038,8,2025-08-01T12:29:00Z,settled
+KXRTNOVOCAINE,KXRTNOVOCAINE,"""Novocaine"" Rotten Tomatoes score?","On Mar 17, 2025",Entertainment,False,1626469,514843,12,2025-03-17T14:00:00Z,settled
+KXBTCD-24NOV0817,KXBTCD,"Bitcoin price on Nov 8, 2024 at 5pm EST?","On Nov 8, 2024",Crypto,False,1626026,474062,50,2024-11-08T22:00:00Z,settled
+KXFED-26JAN,KXFED,Fed funds rate after Jan 2026 meeting?,"On Jan 28, 2026",Economics,False,1625763,1512373,11,2026-01-28T18:55:00Z,settled
+KXRAINNYC-26JAN07,KXRAINNYC,"Will it rain in NYC on Jan 7, 2026?","On Jan 7, 2026",Climate and Weather,False,1618299,1615161,1,2026-01-08T04:59:00Z,settled
+KXBTCD-24NOV2917,KXBTCD,"Bitcoin price on Nov 29, 2024 at 5pm EST?","On Nov 29, 2024",Crypto,False,1612614,484384,50,2024-11-29T22:00:00Z,settled
+KXFEDEMPLOYEES-26JAN,KXFEDEMPLOYEES,How many government employees will Trump cut in 2025?,Before 2026,Politics,False,1604103,341247,5,2026-01-19T19:14:28.019962Z,settled
+KXHIGHCHI-26JAN23,KXHIGHCHI,"Highest temperature in Chicago on Jan 23, 2026?","On Jan 23, 2026",Climate and Weather,True,1595481,1563830,6,2026-01-24T05:59:00Z,settled
+KXMUSKPACKAGEVOTE-26JAN01,KXMUSKPACKAGEVOTE,Will Tesla shareholders approve Elon Musk's new pay package this year?,"Before Jan 1, 2026",Companies,False,1594577,831211,1,2025-11-06T22:13:35.244274Z,settled
+FED-23MAR,KXFED,Fed funds rate in Mar 2023?,In Mar 2023,Economics,False,1588680,403317,15,2023-03-22T17:55:00Z,settled
+KXRTFANTASTICFOUR,KXRTFANTASTICFOUR,"""The Fantastic Four: First Steps"" Rotten Tomatoes score?","Jul 28, 2025",Entertainment,False,1588271,870272,11,2025-07-28T14:00:00Z,settled
+KXBTC-24NOV1517,KXBTC,"Bitcoin price range on Nov 15, 2024 at 5pm EST?","On Nov 15, 2024",Crypto,True,1587673,889365,40,2024-11-15T22:00:00Z,settled
+KXBTC-24DEC0917,KXBTC,"Bitcoin price range on Dec 9, 2024 at 5pm EST?","On Dec 9, 2024",Crypto,True,1585565,879161,40,2024-12-09T22:00:00Z,settled
+KXNETFLIXRANKSHOWRUNNERUP-25DEC29,KXNETFLIXRANKSHOWRUNNERUP,#2 US Netflix Show this week?,"The chart published on Dec 30, 2025",Entertainment,True,1583591,1372123,11,2025-12-30T04:59:00Z,settled
+KXSONGSONCHARTTSWIFT6-25OCT25,KXSONGSONCHARTTSWIFT6,Will Taylor Swift occupy all Top 6 spots on the Billboard Hot 100 chart for October 25th?,"Oct 25, 2025",Entertainment,False,1580844,1365169,1,2025-10-20T19:33:33.843649Z,settled
+FED-24MAR,KXFED,Fed funds rate in Mar 2024?,In Mar 2024,Economics,False,1580810,276507,7,2024-03-20T17:55:00Z,settled
+KXHIGHNY-26FEB07,KXHIGHNY,"Highest temperature in NYC on Feb 7, 2026?","On Feb 7, 2026",Climate and Weather,True,1575380,1488175,6,2026-02-08T04:59:00Z,settled
+KXTRUMPMENTIONB-25DEC23,KXTRUMPMENTIONB,What will Trump say during his announcement?,"On Dec 22, 2025",Mentions,False,1568841,1326256,25,2025-12-23T04:25:34.759045Z,settled
+KXTN7SMOV-25NOV07,KXTN7SMOV,Margin of victory in the TN-07 Special Election?,"Nov 7, 2025",Elections,True,1564809,783257,7,2025-12-07T23:33:41.336693Z,settled
+KXBTC-24DEC0517,KXBTC,"Bitcoin price range on Dec 5, 2024 at 5pm EST?","On Dec 5, 2024",Crypto,True,1564578,872266,40,2024-12-05T22:00:00Z,settled
+KXBTCD-26FEB1017,KXBTCD,"Bitcoin price on Feb 10, 2026 at 5pm EST?","On Feb 10, 2026 at 5pm EST",Crypto,False,1562608,630776,40,2026-02-10T22:00:00Z,settled
+KXNFLMENTION-26JAN18HOUNE,KXNFLMENTION,What will the announcers say during the Houston at New England professional football game?,Houston at New England,Mentions,False,1553331,1098598,22,2026-01-19T01:00:00Z,settled
+KXBTCD-24NOV1817,KXBTCD,"Bitcoin price on Nov 18, 2024 at 5pm EST?","On Nov 18, 2024",Crypto,False,1550010,463777,40,2024-11-18T22:00:00Z,settled
+KXSOUTHPARKMENTION-25SEP24,KXSOUTHPARKMENTION,What will the South Park characters say during the prediction market episode?,"On Sep 24, 2025",Politics,False,1549304,1048384,26,2025-09-25T03:34:16.799529Z,settled
+KXNFLMENTION-26JAN11SFPHI,KXNFLMENTION,What will the announcers say during the San Francisco at Philadelphia professional football game?,San Francisco at Philadelphia,Mentions,False,1545150,1113600,20,2026-01-12T02:30:00Z,settled
+KXMAMDANIMENTION-26JAN20,KXMAMDANIMENTION,What will Mamdani say during the MLK Celebration?,"On Jan 19, 2026",Mentions,False,1544661,1061634,13,2026-01-19T22:21:44.073962Z,settled
+KXTOPMODEL-26JAN,KXTOPMODEL,What will be the top AI model in Jan 2026?,"On Jan 31, 2026",Science and Technology,True,1542070,1090113,10,2026-01-31T15:00:00Z,settled
+KXPAYROLLS-25SEP,KXPAYROLLS,Jobs numbers in Sep 2025?,In Sep 2025,Economics,False,1541042,609418,7,2025-10-03T12:29:00Z,settled
+KXTRUMPMENTION-26JAN222,KXTRUMPMENTION,What will Trump say during his NewsNation interview (Part 2)?,"On Jan 21, 2026",Mentions,False,1527570,1451736,16,2026-01-22T13:22:32.668425Z,settled
+KXTRUMPPUTIN-25,KXTRUMPPUTIN,Who will attend Trump and Putin's meeting in Alaska on August 15?,"Before Aug 15, 2025",Entertainment,False,1526603,735900,14,2025-08-17T14:00:00Z,settled
+KXPAYROLLS-25MAY,KXPAYROLLS,Jobs numbers in May 2025?,In May 2025,Economics,False,1521380,667808,7,2025-06-06T12:25:00Z,settled
+KXBTC-24DEC0417,KXBTC,"Bitcoin price range on Dec 4, 2024 at 5pm EST?","On Dec 4, 2024",Crypto,True,1519459,782558,40,2024-12-04T22:00:00Z,settled
+KXBTCD-26FEB1617,KXBTCD,"Bitcoin price on Feb 16, 2026 at 5pm EST?","On Feb 16, 2026 at 5pm EST",Crypto,False,1518347,658968,40,2026-02-16T22:00:00Z,settled
+KXCPIYOY-25AUG,KXCPIYOY,Inflation in Aug 2025? (CPI YoY),In Aug 2025,Economics,False,1510232,823503,8,2025-09-11T12:29:00Z,settled
+KXMUSKDOGE-26,KXMUSKDOGE,Will Elon Musk leave the DOGE?,Leave the DOGE,Politics,False,1507088,495533,6,2025-06-15T14:00:00Z,settled
+KXMAYORMINN-26,KXMAYORMINN,Who will win the Mayor election in Minneapolis?,In 2025,Elections,True,1504148,581287,5,2025-11-07T21:56:02.235594Z,settled
+KXTRUMPMENTIONB-26JAN28,KXTRUMPMENTIONB,What will Trump say during his radio interview?,"On Jan 27, 2026",Mentions,False,1503219,1355851,25,2026-01-27T21:06:52.535187Z,settled
+KXBTCD-26FEB1717,KXBTCD,"Bitcoin price on Feb 17, 2026 at 5pm EST?","On Feb 17, 2026 at 5pm EST",Crypto,False,1500995,598905,40,2026-02-17T22:00:00Z,settled
+KXRTNOSFERATU,KXRTNOSFERATU,"""Nosferatu"" Rotten Tomatoes score?",On Monday following wide release,Entertainment,False,1499085,431209,10,2024-12-30T15:00:00Z,settled
+KXHIGHCHI-26JAN19,KXHIGHCHI,"Highest temperature in Chicago on Jan 19, 2026?","On Jan 19, 2026",Climate and Weather,True,1498966,1433771,6,2026-01-20T05:59:00Z,settled
+KXBTCD-26FEB1217,KXBTCD,"Bitcoin price on Feb 12, 2026 at 5pm EST?","On Feb 12, 2026 at 5pm EST",Crypto,False,1497326,547818,40,2026-02-12T22:00:00Z,settled
+KXSBPERFORM-25,KXSBPERFORM,Who will be part of Kendrick’s half-time show?,In 2025,Entertainment,False,1496804,740073,14,2025-02-10T01:47:11.990477Z,settled
+KXTRUMPMENTION-26JAN14,KXTRUMPMENTION,What will Trump say during his CBS interview?,"On Jan 13, 2026",Mentions,False,1487741,1244004,18,2026-01-14T15:00:00Z,settled
+KXSECPRESSMENTION-26MAR01,KXSECPRESSMENTION,What will Karoline Leavitt say in the next press briefing?,"Feb 10, 2026",Mentions,False,1484049,1216068,30,2026-02-10T20:06:27Z,settled
+KXBTCD-24NOV1417,KXBTCD,"Bitcoin price on Nov 14, 2024 at 5pm EST?","On Nov 14, 2024",Crypto,False,1483366,441580,40,2024-11-14T22:00:00Z,settled
+KXTRUMPMENTIONB-25DEC18,KXTRUMPMENTIONB,What will Trump say during his Address to the Nation?,"On Dec 17, 2025",Mentions,False,1480948,1055945,26,2025-12-18T15:00:00Z,settled
+KXBTC-24NOV1817,KXBTC,"Bitcoin price range on Nov 18, 2024 at 5pm EST?","On Nov 18, 2024",Crypto,True,1479269,835514,40,2024-11-18T22:00:00Z,settled
+KXNFLMENTION-26JAN17BUFDEN,KXNFLMENTION,What will the announcers say during the Buffalo at Denver professional football game?,Buffalo at Denver,Mentions,False,1477278,952599,22,2026-01-18T02:30:00Z,settled
+SENATEWI-24,SENATEWI,Who will win the Senate race in Wisconsin?,In 2024,Politics,True,1475123,470909,2,2025-01-03T20:20:02.526024Z,settled
+KXRFKCOUNT-25,KXRFKCOUNT,How many Senators will vote for RFK as Secretary of HHS?,Before Aug 2025,Politics,True,1471989,810969,13,2025-02-13T17:46:00.892798Z,settled
+KXBTC-24NOV2017,KXBTC,"Bitcoin price range on Nov 20, 2024 at 5pm EST?","On Nov 20, 2024",Crypto,True,1470406,844162,40,2024-11-20T22:00:00Z,settled
+KXEOWEEK-26JAN31,KXEOWEEK,Will Trump sign an executive order this week (1/25-1/31)?,"Jan 25, 2026 to Jan 31, 2026",Politics,False,1466836,799393,1,2026-02-01T04:59:00Z,settled
+KXSECSTATE-26DEC31,KXSECSTATE,Who will be Trump's Secretary of State?,"By Dec 31, 2026",Politics,True,1466324,259318,5,2025-01-21T15:00:19.156043Z,settled
+KXBTCMAXMON-BTC-26JAN31,KXBTCMAXMON,How high will Bitcoin get in January?,January,Crypto,False,1463155,593406,8,2026-02-01T04:59:59Z,settled
+DCEIL-23DEC31,KXDCEIL,Debt ceiling hike in 2023?,In 2023,Politics,False,1454018,372389,7,2023-06-05T16:53:25.430576Z,settled
+FED-23MAY,KXFED,Fed funds rate in May 2023?,In May 2023,Economics,False,1453097,358472,15,2023-05-03T17:55:00Z,settled
+KXEOCOUNTDAY3-25JAN22,KXEOCOUNTDAY3,How many Executive Orders will Trump issue on Day 3?,"On Day 3 (January 22, 2025)",Politics,True,1447919,583625,11,2025-01-23T15:00:00Z,settled
+KXCPI-25JUN,KXCPI,CPI in Jun 2025?,In Jun 2025,Economics,False,1447516,787188,8,2025-07-15T12:29:00Z,settled
+KXAAAGASM-25DEC31,KXAAAGASM,US Gas prices at the end of December?,"On Dec 31, 2025",Economics,False,1440460,798153,10,2025-12-31T04:59:00Z,settled
+KXCPI-25AUG,KXCPI,CPI in Aug 2025?,In Aug 2025,Economics,False,1440001,803736,6,2025-09-11T12:25:00Z,settled
+KXOSCARNOMACTR-26,KXOSCARNOMACTR,Oscar nominations for Best Actress?,In 2026,Entertainment,False,1439658,665098,19,2026-01-22T15:27:55.499137Z,settled
+KXSPACEXCOUNT-26JAN,KXSPACEXCOUNT,How many launches will SpaceX have in Jan 2026?,In Jan 2026,Companies,False,1433590,532849,7,2026-02-01T15:00:00Z,settled
+KXELECTIONDAYS,KXELECTIONDAYS,When will the AP call the election?,In 2024,Politics,True,1431987,769970,15,2024-11-07T21:29:47.912803Z,settled
+KXRTMARTYSUPREME,KXRTMARTYSUPREME,"""Marty Supreme"" Rotten Tomatoes score?","Dec 29, 2025",Entertainment,False,1429814,1018383,13,2025-12-29T15:00:00Z,settled
+SENATENE-24,SENATENE,Who will win the Senate race in Nebraska?,In 2024,Politics,True,1424956,451907,2,2025-01-03T20:20:07.952553Z,settled
+KXBTCD-26FEB1917,KXBTCD,"Bitcoin price on Feb 19, 2026 at 5pm EST?","On Feb 19, 2026 at 5pm EST",Crypto,False,1421637,538797,40,2026-02-19T22:00:00Z,settled
+KXBTCD-26FEB0217,KXBTCD,"Bitcoin price on Feb 2, 2026 at 5pm EST?","On Feb 2, 2026 at 5pm EST",Crypto,False,1416160,652536,40,2026-02-02T22:00:00Z,settled
+KXBTCD-26JAN2717,KXBTCD,"Bitcoin price on Jan 27, 2026 at 5pm EST?","On Jan 27, 2026 at 5pm EST",Crypto,False,1415128,464297,40,2026-01-27T22:00:00Z,settled
+KXBTC-24DEC0217,KXBTC,"Bitcoin price range on Dec 2, 2024 at 5pm EST?","On Dec 2, 2024",Crypto,True,1407236,798804,40,2024-12-02T22:00:00Z,settled
+KXBTC-24NOV1117,KXBTC,"Bitcoin price range on Nov 11, 2024 at 5pm EST?","On Nov 11, 2024",Crypto,True,1406884,699357,40,2024-11-11T22:00:00Z,settled
+TNOTEW-24MAR22,KXTNOTEW,"Treasury 10-year yield on Mar 22, 2024?","On Mar 22, 2024",Financials,True,1404495,1298317,15,2024-03-22T19:25:00Z,settled
+KXBTCD-24DEC1017,KXBTCD,"Bitcoin price on Dec 10, 2024 at 5pm EST?","On Dec 10, 2024",Crypto,False,1400609,368699,40,2024-12-10T22:00:00Z,settled
+KXWTIMAX-25DEC31,KXWTIMAX,"How high will WTI oil get by Dec 31, 2025?",In 2025,Financials,False,1398700,866954,5,2025-12-31T19:30:00Z,settled
+KXBTCD-24NOV1317,KXBTCD,"Bitcoin price on Nov 13, 2024 at 5pm EST?","On Nov 13, 2024",Crypto,False,1395481,403257,40,2024-11-13T22:00:00Z,settled
+KXBTCD-26JAN2117,KXBTCD,"Bitcoin price on Jan 21, 2026 at 5pm EST?","On Jan 21, 2026 at 5pm EST",Crypto,False,1394198,522820,40,2026-01-21T22:00:00Z,settled
+KXNASDAQ100U-25SEP23H1400,KXNASDAQ100U,"Nasdaq price on Sep 23, 2025 at 2pm EDT?","On Sep 23, 2025 at 2pm EDT",Financials,False,1393634,591271,400,2025-09-23T18:00:00Z,settled
+KXFEDMENTION-25OCT,KXFEDMENTION,What Will Powell Say During His October Press Conference?,"On Oct 29, 2025",Politics,False,1391221,919953,40,2025-10-29T22:12:03.53273Z,settled
+CABINETTULSI-25,CABINETTULSI,Tulsi Gabbard nominated to the Cabinet?,"Before Feb 1, 2025",Politics,False,1390634,184378,1,2025-01-20T17:06:15.212406Z,settled
+KXGRAMSOTY-67,KXGRAMSOTY,Grammy for Song of the Year?,In 2025,Entertainment,True,1388480,924063,9,2025-02-03T04:34:39.399446Z,settled
+KXGRAMAOTY-67,KXGRAMAOTY,Grammy Award for Album of the Year?,In 2025,Entertainment,True,1386430,996616,9,2025-02-03T04:51:58.799756Z,settled
+KXMADUROOUT-25,KXMADUROOUT,Nicolás Maduro out in November?,In 2025,Politics,False,1385875,659328,1,2025-12-01T15:00:00Z,settled
+KXFIGHTMENTION-26JAN31VOLLOP,KXFIGHTMENTION,What will the announcers say during the Volkanovski vs Lopes fight?,Volkanovski vs Lopes,Mentions,False,1379869,1130690,23,2026-02-01T08:20:00Z,settled
+KXSKPRES-30,KXSKPRES,Who will win the South Korean presidential election?,In 2030,Politics,True,1377511,919226,9,2025-06-03T19:28:30.086375Z,settled
+FED-24JUL,KXFED,Fed funds rate in July?,In Jul 2024,Economics,False,1375175,282341,7,2024-07-31T17:55:00Z,settled
+KXTRUMPMENTIONB-26FEB05,KXTRUMPMENTIONB,What will Trump say during his NBC interview?,"On Feb 4, 2026",Mentions,False,1368795,954032,18,2026-02-05T02:45:57Z,settled
+KXMANTISFREETHROW-25DEC,KXMANTISFREETHROW,How long will it take for Young Mantis to hit 135 free throws in a row?,In Dec 2025,Social,True,1368790,799453,32,2025-11-18T21:08:18.527771Z,settled
+KXBTCD-26FEB1417,KXBTCD,"Bitcoin price on Feb 14, 2026 at 5pm EST?","On Feb 14, 2026 at 5pm EST",Crypto,False,1368017,583467,40,2026-02-14T22:00:00Z,settled
+KXNFLMENTION-26JAN10GBCHI,KXNFLMENTION,What will the announcers say during the Green Bay at Chicago professional football game?,Green Bay at Chicago,Mentions,False,1367525,991543,22,2026-01-11T06:00:00Z,settled
+KXTOP10BILLBOARDSPOTSTS-25B,KXTOP10BILLBOARDSPOTSTS,How many spots on the Billboard Hot 100's top 10 will Taylor Swift hold for the week of Oct 25th?,"Oct 25, 2025",Entertainment,True,1365050,1156295,10,2025-10-20T19:32:46.269449Z,settled
+KXTRUMPMENTION-26FEB12,KXTRUMPMENTION,What will Trump say during the Champion of Coal Event,"On Feb 11, 2026",Mentions,False,1363637,1094015,22,2026-02-11T22:39:38Z,settled
+KXRT28YEARSLATERTBT,KXRT28YEARSLATERTBT,"""28 Years Later: The Bone Temple"" Rotten Tomatoes score?","Jan 19, 2026",Entertainment,False,1360391,947424,11,2026-01-19T15:00:00Z,settled
+KXZELENSKYYPUTINMEET-26,KXZELENSKYYPUTINMEET,Will Zelenskyy meet with Putin before Jan 2026?,"Before Jan 1, 2026",Social,False,1360093,312349,1,2026-01-01T04:59:00Z,settled
+FED-22SEP,KXFED,Fed funds rate in Sep 2022 meeting?,In Sep 2022 meeting,Economics,False,1356683,432751,14,2022-09-21T17:55:59Z,settled
+KXFTNMENTION-26JAN12,KXFTNMENTION,What will Ilhan Omar say on Face the Nation?,"On Jan 11, 2026",Mentions,False,1351895,1257180,14,2026-01-12T15:00:00Z,settled
+KXSBSETLISTS-25,KXSBSETLISTS,What songs will be played at the half-time show?,In the 2025 Football Championship,Entertainment,False,1351872,675304,13,2025-02-10T01:48:50.794172Z,settled
+TIME-24,KXTIME,TIME's Person of the Year for 2024?,In 2024,Entertainment,False,1351031,803417,16,2024-12-12T13:09:59.850141Z,settled
+KXEOWEEK-26FEB07,KXEOWEEK,Will Trump sign an executive order this week (2/1-2/7)?,"Feb 1, 2026 to Feb 7, 2026",Politics,False,1345235,810030,1,2026-02-08T04:59:00Z,settled
+KXLASTSTATECALL24,KXLASTSTATECALL24,Which state will be called last?,In 2024,Elections,True,1342383,527720,15,2024-11-11T14:09:09.16635Z,settled
+KXAAAGASM-25NOV30,KXAAAGASM,Gas prices in the US in Nov 2025?,"On Nov 30, 2025",Economics,False,1335481,644487,10,2025-11-30T04:59:00Z,settled
+KXRUBIO-25JUL01,KXRUBIO,Who will replace Marco Rubio as Florida Senator?,Before Jul 2025,Politics,True,1335214,415324,10,2025-01-18T16:38:39.67909Z,settled
+KXLATENIGHTMENTION-26JAN21,KXLATENIGHTMENTION,What will Will Smith say during The Tonight Show Starring Jimmy Fallon?,"On Jan 20, 2026",Mentions,False,1332802,1080827,7,2026-01-21T15:00:00Z,settled
+KXBTC-24NOV2617,KXBTC,"Bitcoin price range on Nov 26, 2024 at 5pm EST?","On Nov 26, 2024",Crypto,True,1329747,755662,40,2024-11-26T22:00:00Z,settled
+KXBTCD-26JAN0617,KXBTCD,"Bitcoin price on Jan 6, 2026 at 5pm EST?","On Jan 6, 2026 at 5pm EST",Crypto,False,1329319,589355,40,2026-01-06T22:00:00Z,settled
+KXOSCARACTO-25,KXOSCARACTO,2025 Oscar for Best Actor?,In 2025,Entertainment,True,1327943,972512,10,2025-03-03T03:25:16.285701Z,settled
+KXRTSUPERMAN,KXRTSUPERMAN,"""Superman"" Rotten Tomatoes score?","Jul 14, 2025",Entertainment,False,1327939,767024,12,2025-07-14T14:00:00Z,settled
+SENATEFL-24,SENATEFL,Who will win the Senate race in Florida?,In 2024,Politics,True,1326469,332198,2,2025-01-03T20:20:06.074601Z,settled
+KXNFLMENTION-26JAN18SFSEA,KXNFLMENTION,What will the announcers say during the San Francisco at Seattle professional football game?,San Francisco at Seattle,Mentions,False,1325251,889117,22,2026-01-18T06:00:00Z,settled
+KXNETFLIXRANKSHOW-25DEC29,KXNETFLIXRANKSHOW,Top US Netflix Show this week?,"The chart published on Dec 30, 2025",Entertainment,True,1323860,1046862,11,2025-12-30T04:59:00Z,settled
+KXHIGHPHIL-26JAN20,KXHIGHPHIL,"Highest temperature in Philadelphia on Jan 20, 2026?","On Jan 20, 2026",Climate and Weather,True,1322340,1151787,6,2026-01-21T04:59:00Z,settled
+KXKIMMELMENTION-25SEP23,KXKIMMELMENTION,What will Kimmel say during his show?,"On Sep 23, 2025",Politics,False,1319485,793742,20,2025-09-24T14:53:43.845735Z,settled
+LLM1-24DEC31,KXLLM1,Best LLM at the end of the year?,"On Dec 31, 2024",Science and Technology,False,1319352,342105,8,2024-12-31T15:00:00Z,settled
+KXTRUMPMENTION-25DEC30,KXTRUMPMENTION,What will Trump say during the Kennedy Center Honors?,"On Dec 30, 2025",Mentions,False,1315276,630479,18,2025-12-24T16:16:09.658748Z,settled
+KXBTCD-26FEB0117,KXBTCD,"Bitcoin price on Feb 1, 2026 at 5pm EST?","On Feb 1, 2026 at 5pm EST",Crypto,False,1310593,669548,40,2026-02-01T22:00:00Z,settled
+KXSTATESHIFTRIGHT-24,KXSTATESHIFTRIGHT,Which states will move to the right in the Presidential Election?,Before 2024,Elections,False,1306461,201250,5,2025-01-06T19:06:10.276446Z,settled
+FED-22DEC,KXFED,Fed funds rate in Dec 2022 meeting?,In Dec 2022 meeting,Economics,False,1306009,438681,19,2022-12-14T18:55:27Z,settled
+KXTRUMPSAY-25SEP,KXTRUMPSAY,What will Trump say in Aug 2025?,In Aug 2025,Mentions,False,1305234,1115833,38,2025-09-01T14:00:00Z,settled
+KXBTC-24DEC0617,KXBTC,"Bitcoin price range on Dec 6, 2024 at 5pm EST?","On Dec 6, 2024",Crypto,True,1304867,754346,40,2024-12-06T22:00:00Z,settled
+KXMELANIAMENTION-26JAN29,KXMELANIAMENTION,What will Melania Trump say during her Fox News interview?,"On Jan 28, 2026",Mentions,False,1304544,1258293,12,2026-01-29T01:58:58.6406Z,settled
+KXXRPMAXY-25DEC31,KXXRPMAXY,How high will XRP get this year?,In 2025,Crypto,False,1302988,927003,5,2025-12-31T15:00:00Z,settled
+KXBTCD-26JAN2817,KXBTCD,"Bitcoin price on Jan 28, 2026 at 5pm EST?","On Jan 28, 2026 at 5pm EST",Crypto,False,1298301,520514,40,2026-01-28T22:00:00Z,settled
+KXEXPAND-26,KXEXPAND,"US controls part of Greenland, Canada, and Panama Canal in 2025?",Before 2026,Politics,False,1297570,337977,1,2026-01-01T07:49:22.5294Z,settled
+KXTRUMPSAY-26JAN12,KXTRUMPSAY,What will Trump say this week?,"Before Jan 12, 2026",Mentions,False,1292484,894321,27,2026-01-12T15:00:00Z,settled
+KXPRESLEAVESK-25,KXPRESLEAVESK,Will the South Korean President leave office?,Leaves office,Politics,False,1289399,609944,4,2025-04-04T15:22:43.269789Z,settled
+KXCANLIBSEATS-25,KXCANLIBSEATS,How many seats will the Liberal Party win in the Canadian election?,In 2025,Elections,True,1286907,565224,10,2025-05-27T16:17:08.211005Z,settled
+KXRAINNYC-26FEB11,KXRAINNYC,"Will it rain in NYC on Feb 11, 2026?","On Feb 11, 2026",Climate and Weather,False,1282838,1281181,1,2026-02-12T04:59:00Z,settled
+KXRTZOOTOPIA2,KXRTZOOTOPIA2,"""Zootopia 2"" Rotten Tomatoes score?","Dec 1, 2025",Entertainment,False,1282306,763137,11,2025-12-01T15:00:00Z,settled
+KXNFLMENTION-25DEC22SFIND,KXNFLMENTION,What will the announcers say during the San Francisco at Indianapolis pro football game?,San Francisco at Indianapolis,Mentions,False,1277535,1001698,21,2025-12-23T17:15:00Z,settled
+KXU3-25JUL,KXU3,Unemployment in Jul 2025?,In Jul 2025,Economics,False,1274238,811474,6,2025-08-01T12:29:00Z,settled
+KXBTCD-26JAN3014,KXBTCD,"Bitcoin price on Jan 30, 2026 at 2pm EST?","On Jan 30, 2026 at 2pm EST",Crypto,False,1264243,337552,75,2026-01-30T19:00:00Z,settled
+KXRTDOGMAN,KXRTDOGMAN,"""Dog Man"" Rotten Tomatoes score?",On Monday following wide release,Entertainment,False,1258789,365109,8,2025-02-03T15:00:00Z,settled
+KXTRUMPMENTION-26FEB07,KXTRUMPMENTION,Mention: Trump signs Executive Orders,"On Feb 6, 2026",Mentions,False,1257247,1096795,20,2026-02-07T14:22:59Z,settled
+KXVANCEMENTION-26JAN24,KXVANCEMENTION,What will JD Vance say during his remarks at March for Life?,"On Jan 23, 2026",Mentions,False,1256402,1105753,17,2026-01-23T20:31:55.65283Z,settled
+KXNFLMENTION-25DEC04DALDET,KXNFLMENTION,What will the announcers say during the Dallas at Detroit pro football game?,"On Dec 4, 2025",Mentions,False,1256210,1050943,26,2025-12-05T14:49:57.319555Z,settled
+KXOTEEPSTEIN-26,KXOTEEPSTEIN,Who will vote for releasing the Epstein files in the House?,Before 2026,Politics,False,1250350,613029,35,2025-11-18T21:39:53.738092Z,settled
+KXMOSTSTREAMESTSTLOASG-25OCT10,KXMOSTSTREAMESTSTLOASG,Most streamed song on 'The Life of a Showgirl' by Oct 10th?,"By Oct 10, 2025",Entertainment,True,1241951,811680,12,2025-10-10T14:00:00Z,settled
+KXBTCD-26FEB0613,KXBTCD,"Bitcoin price on Feb 6, 2026 at 1pm EST?","On Feb 6, 2026 at 1pm EST",Crypto,False,1238972,457605,95,2026-02-06T18:00:00Z,settled
+KXHIGHCHI-26JAN09,KXHIGHCHI,"Highest temperature in Chicago on Jan 9, 2026?","On Jan 9, 2026",Climate and Weather,True,1227648,1204607,6,2026-01-10T05:59:00Z,settled
+KXBTCD-26FEB1311,KXBTCD,"Bitcoin price on Feb 13, 2026 at 11am EST?","On Feb 13, 2026 at 11am EST",Crypto,False,1225090,445698,75,2026-02-13T16:00:00Z,settled
+KXHIGHAUS-24NOV18,KXHIGHAUS,"Highest temperature in Austin on Nov 18, 2024?","On Nov 18, 2024",Climate and Weather,True,1224403,541915,6,2024-11-19T05:59:00Z,settled
+KXBTCD-24DEC0317,KXBTCD,"Bitcoin price on Dec 3, 2024 at 5pm EST?","On Dec 3, 2024",Crypto,False,1219508,403267,40,2024-12-03T22:00:00Z,settled
+POPVOTEMOVFL-2024,POPVOTEMOVFL,Popular vote margin of victory in Florida?,In 2024,Elections,True,1217439,701319,9,2025-01-06T20:18:45.492337Z,settled
+KXNYCMAYORDEBATEMENTION-25OCT16,KXNYCMAYORDEBATEMENTION,What Will The Candidates Say During The NYC Mayoral Debate?,"On Oct 16, 2025",Politics,False,1215642,832825,34,2025-10-17T14:00:00Z,settled
+SENATEMI-24,SENATEMI,Who will win the Senate race in Michigan?,In 2024,Politics,True,1215349,268374,2,2025-01-03T20:20:06.593749Z,settled
+KXTRUMPMENTIONB-25DEC19,KXTRUMPMENTIONB,What will Trump say during the National Defense Authorization Act signing?,"On Dec 18, 2025",Mentions,False,1210473,1088932,22,2025-12-19T15:00:00Z,settled
+FED-24DEC,KXFED,Fed funds rate in Dec 2024?,"In Dec 18, 2024",Economics,False,1209779,226464,10,2024-12-18T18:55:00Z,settled
+KXMAYORJERSEY-25,KXMAYORJERSEY,Who will win the Mayor election in Jersey City?,In 2025,Elections,True,1207634,379672,6,2025-12-05T19:10:50.890551Z,settled
+KXMAMDANIMENTION-26JAN02,KXMAMDANIMENTION,What will Zohran Mamdani say during his inauguration?,"On Jan 1, 2026",Mentions,False,1204056,937874,16,2026-01-02T15:00:00Z,settled
+KXBTCD-26JAN2617,KXBTCD,"Bitcoin price on Jan 26, 2026 at 5pm EST?","On Jan 26, 2026 at 5pm EST",Crypto,False,1202405,453920,40,2026-01-26T22:00:00Z,settled
+FED-25DEC,KXFED,Fed funds rate in Dec 2025?,"On Dec 10, 2025",Economics,False,1200154,470389,11,2025-12-10T18:55:00Z,settled
+KXBTCD-25DEC1917,KXBTCD,"Bitcoin price on Dec 19, 2025 at 5pm EST?","On Dec 19, 2025 at 5pm EST",Crypto,False,1200124,572547,50,2025-12-19T22:00:00Z,settled
+KXTARIFFSC-25MAR01,KXTARIFFSC,Will Trump impose tariffs on any country before Mar 2025?,"Before Mar 1, 2025",Politics,False,1198709,340424,1,2025-02-04T14:33:37.242665Z,settled
+KXEOWEEK-25OCT19,KXEOWEEK,Will Trump sign an executive order this week?,"Oct 12, 2025 to Oct 19, 2025",Politics,False,1196137,929754,1,2025-10-19T16:44:23.4881Z,settled
+KXBTCD-26JAN1417,KXBTCD,"Bitcoin price on Jan 14, 2026 at 5pm EST?","On Jan 14, 2026 at 5pm EST",Crypto,False,1195515,578200,40,2026-01-14T22:00:00Z,settled
+KXNYCSNOWM-25DEC,KXNYCSNOWM,Snow in New York City in Dec 2025?,In Dec 2025,Climate and Weather,False,1193525,478217,7,2026-01-01T18:58:59Z,settled
+KXBTCD-24NOV0717,KXBTCD,"Bitcoin price on Nov 7, 2024 at 5pm EST?","On Nov 7, 2024",Crypto,False,1189589,400436,40,2024-11-07T22:00:00Z,settled
+KXTRUMPFOOTBALL-26JAN012,KXTRUMPFOOTBALL,Will Donald Trump attend another football game this year?,"On Jan 1, 2026",Entertainment,False,1183501,545537,1,2025-12-13T20:32:35.910775Z,settled
+GAMEAWARDS-2024,KXGAMEAWARDS,Game of the Year?,In 2024,Entertainment,False,1182898,629902,14,2024-12-13T04:09:55.392189Z,settled
+KXBTCD-26FEB1517,KXBTCD,"Bitcoin price on Feb 15, 2026 at 5pm EST?","On Feb 15, 2026 at 5pm EST",Crypto,False,1178841,555022,40,2026-02-15T22:00:00Z,settled
+KXTOP10BILLBOARDSPOTSTS-25,KXTOP10BILLBOARDSPOTSTS,How many spots on the Billboard Hot 100's top 10 will Taylor Swift hold for the week of Oct 18th?,"On Oct 18, 2025",Entertainment,True,1176258,865769,10,2025-10-13T19:04:59.386387Z,settled
+KXRECNCBILL-25,KXRECNCBILL,When will a budget reconciliation bill become law?,Before 2025,Politics,False,1172259,605833,9,2025-07-07T11:15:32.012817Z,settled
+KXPATELCOUNT-25,KXPATELCOUNT,How many Senators will vote for Kash Patel as Director of the FBI?,Before Aug 2025,Politics,True,1171428,602962,13,2025-02-20T19:26:56.359932Z,settled
+BTCMAXY-24DEC31,KXBTCMAXY,How high will Bitcoin get this year?,In 2024,Crypto,False,1168957,415246,8,2025-01-01T00:00:00Z,settled
+KXKIMMELMENTION-26JAN13,KXKIMMELMENTION,What will Jimmy Kimmel say during The Late Show with Stephen Colbert?,"On Jan 12, 2026",Mentions,False,1166486,1008673,10,2026-01-13T15:00:00Z,settled
+KXHIGHLAX-26FEB07,KXHIGHLAX,"Highest temperature in LA on Feb 7, 2026?","On Feb 7, 2026",Climate and Weather,True,1161874,546991,6,2026-02-08T07:59:00Z,settled
+FED-23JUN,KXFED,Fed funds rate in Jun 2023?,In Jun 2023,Economics,False,1159317,354539,15,2023-06-14T17:55:00Z,settled
+KXCRYPTORETURNY-25,KXCRYPTORETURNY,Which cryptocurrencies will have positive return this year?,In 2025,Crypto,False,1156812,436095,9,2026-01-01T05:56:13.29357Z,settled
+KXTRUMPSAY-26FEB16,KXTRUMPSAY,What will Trump say this week?,"Before Feb 16, 2026",Mentions,False,1156775,843025,26,2026-02-16T15:00:00Z,settled
+KXTOPMONTHLY-26JAN,KXTOPMONTHLY,Artist with the most monthly Spotify listeners at the end of Jan 2026?,"On Jan 31, 2026",Entertainment,True,1154999,794531,12,2026-01-31T16:59:00Z,settled
+KXBTCD-26JAN2713,KXBTCD,"Bitcoin price on Jan 27, 2026 at 1pm EST?","On Jan 27, 2026 at 1pm EST",Crypto,False,1154415,304521,75,2026-01-27T18:00:00Z,settled
+KXBTCD-26FEB0511,KXBTCD,"Bitcoin price on Feb 5, 2026 at 11am EST?","On Feb 5, 2026 at 11am EST",Crypto,False,1152211,349707,75,2026-02-05T16:00:00Z,settled
+KXHIGHNY-26JAN20,KXHIGHNY,"Highest temperature in NYC on Jan 20, 2026?","On Jan 20, 2026",Climate and Weather,True,1146861,1000581,6,2026-01-21T04:59:00Z,settled
+KXBTCD-24NOV2617,KXBTCD,"Bitcoin price on Nov 26, 2024 at 5pm EST?","On Nov 26, 2024",Crypto,False,1144455,327735,40,2024-11-26T22:00:00Z,settled
+FED-24MAY,KXFED,Fed funds rate in May 2024?,In May 2024,Economics,False,1144442,162918,7,2024-05-01T17:55:00Z,settled
+KXBTCD-26FEB0612,KXBTCD,"Bitcoin price on Feb 6, 2026 at 12pm EST?","On Feb 6, 2026 at 12pm EST",Crypto,False,1140018,471402,95,2026-02-06T17:00:00Z,settled
+KXBTCD-26JAN0817,KXBTCD,"Bitcoin price on Jan 8, 2026 at 5pm EST?","On Jan 8, 2026 at 5pm EST",Crypto,False,1139730,506902,40,2026-01-08T22:00:00Z,settled
+KXTRUMPMENTIONB-26JAN30,KXTRUMPMENTIONB,What will Trump say during his announcement?,"On Jan 29, 2026",Mentions,False,1137967,827609,28,2026-01-29T23:59:28Z,settled
+KXBTCD-24DEC1117,KXBTCD,"Bitcoin price on Dec 11, 2024 at 5pm EST?","On Dec 11, 2024",Crypto,False,1131771,397991,40,2024-12-11T22:00:00Z,settled
+KXWEALTHY-25,KXWEALTHY,Wealthiest person in the world in 2025?,In 2025,Economics,False,1130501,527681,7,2025-12-31T15:00:00Z,settled
+KXTRUMPMENTION-25DEC20,KXTRUMPMENTION,What will Trump say during his remarks in North Carolina?,"On Dec 19, 2025",Mentions,False,1129121,926685,29,2025-12-20T15:00:00Z,settled
+KXBTCD-26FEB0315,KXBTCD,"Bitcoin price on Feb 3, 2026 at 3pm EST?","On Feb 3, 2026 at 3pm EST",Crypto,False,1127198,406321,75,2026-02-03T20:00:00Z,settled
+KXGGDRAMAFILM-26,KXGGDRAMAFILM,Golden Globe Award for Best Motion Picture - Drama?,In 2026,Entertainment,True,1123966,888899,16,2026-01-12T04:15:05.524405Z,settled
+KXLLM1-25NOV30,KXLLM1,Best AI in Nov 2025?,"On Nov 30, 2025",Science and Technology,True,1116746,731236,6,2025-11-30T15:00:00Z,settled
+FEDDECISION-24JUL,KXFEDDECISION,Fed meeting in July?,In Jul 2024,Economics,True,1111574,456757,5,2024-07-31T17:55:00Z,settled
+KXHIGHNY-26JAN15,KXHIGHNY,"Highest temperature in NYC on Jan 15, 2026?","On Jan 15, 2026",Climate and Weather,True,1109893,976847,6,2026-01-16T04:59:00Z,settled
+KXHIGHCHI-26JAN17,KXHIGHCHI,"Highest temperature in Chicago on Jan 17, 2026?","On Jan 17, 2026",Climate and Weather,True,1109684,1077499,6,2026-01-18T05:59:00Z,settled
+RATECUT-24MAY01,KXRATECUT,Fed rate cut by May 2024?,By May 2024,Economics,False,1108591,185424,1,2024-05-02T03:59:00Z,settled
+FEDDECISION-24NOV,KXFEDDECISION,Fed decision on Nov 7th meeting?,"On Nov 7, 2024",Economics,True,1104684,558813,5,2024-11-07T18:55:00Z,settled
+KXRTLASTBREATH,KXRTLASTBREATH,"""Last Breath"" Rotten Tomatoes score?",On Monday following wide release,Entertainment,False,1102894,268976,11,2025-03-03T15:00:00Z,settled
+KXBTCD-26JAN3016,KXBTCD,"Bitcoin price on Jan 30, 2026 at 4pm EST?","On Jan 30, 2026 at 4pm EST",Crypto,False,1102410,279278,75,2026-01-30T21:00:00Z,settled
+KXHIGHCHI-26JAN14,KXHIGHCHI,"Highest temperature in Chicago on Jan 14, 2026?","On Jan 14, 2026",Climate and Weather,True,1100701,1079788,6,2026-01-15T05:59:00Z,settled
+KXNFLMENTION-26JAN10LACAR,KXNFLMENTION,What will the announcers say during the Los Angeles R at Carolina professional football game?,Los Angeles R at Carolina,Mentions,False,1099373,777781,22,2026-01-11T02:30:00Z,settled
+KXALBUMSALESSWIFT-25,KXALBUMSALESSWIFT,How many album sales will 'The Life of a Showgirl' have on the chart dated October 10th?,"On October 10, 2025",Entertainment,False,1095101,434742,23,2025-10-10T03:59:00Z,settled
+KXLLM1-25FEB28,KXLLM1,Best AI in Feb 2025?,"On Feb 28, 2025",Science and Technology,True,1094348,458624,5,2025-02-28T15:00:00Z,settled
+KXNBAMENTION-26JAN25DENMEM,KXNBAMENTION,What will the announcers say during the Denver at Memphis professional basketball game?,Denver at Memphis,Mentions,False,1089366,895466,15,2026-01-26T01:30:00Z,settled
+KXBTCD-26JAN2112,KXBTCD,"Bitcoin price on Jan 21, 2026 at 12pm EST?","On Jan 21, 2026 at 12pm EST",Crypto,False,1085868,358494,75,2026-01-21T17:00:00Z,settled
+KXNETFLIXRANKMOVIE-25NOV17,KXNETFLIXRANKMOVIE,Top US Netflix movie this week?,"The chart published on Nov 18, 2025",Entertainment,True,1083962,575215,11,2025-11-18T04:59:00Z,settled
+KXRAINNYC-26JAN26,KXRAINNYC,"Will it rain in NYC on Jan 26, 2026?","On Jan 26, 2026",Climate and Weather,False,1082117,1079857,1,2026-01-27T04:59:00Z,settled
+KXBTCD-26JAN2217,KXBTCD,"Bitcoin price on Jan 22, 2026 at 5pm EST?","On Jan 22, 2026 at 5pm EST",Crypto,False,1082040,469260,40,2026-01-22T22:00:00Z,settled
+KXBTCD-26FEB1310,KXBTCD,"Bitcoin price on Feb 13, 2026 at 10am EST?","On Feb 13, 2026 at 10am EST",Crypto,False,1079912,315760,75,2026-02-13T15:00:00Z,settled
+KXNFLMENTION-26JAN11BUFJAC,KXNFLMENTION,What will the announcers say during the Buffalo at Jacksonville professional football game?,Buffalo at Jacksonville,Mentions,False,1078010,752351,20,2026-01-11T23:00:00Z,settled
+KXBTC-24NOV2717,KXBTC,"Bitcoin price range on Nov 27, 2024 at 5pm EST?","On Nov 27, 2024",Crypto,True,1074989,699417,40,2024-11-27T22:00:00Z,settled
+KXFEDCOMBO-26JAN,KXFEDCOMBO,January 2026 Fed Combo: Rate & Dissents,For Jan 2026,Politics,False,1072671,825005,4,2026-01-28T19:00:00Z,settled
+KXETHD-26FEB0617,KXETHD,"Ethereum price on Feb 6, 2026 at 5pm EST?","On Feb 6, 2026 at 5pm EST",Crypto,False,1068231,515282,50,2026-02-06T22:00:00Z,settled
+KXBTC-24NOV0817,KXBTC,"Bitcoin price range on Nov 8, 2024 at 5pm EST?","On Nov 8, 2024",Crypto,True,1068181,493300,40,2024-11-08T22:00:00Z,settled
+KXBTCD-26FEB0717,KXBTCD,"Bitcoin price on Feb 7, 2026 at 5pm EST?","On Feb 7, 2026 at 5pm EST",Crypto,False,1066937,464927,60,2026-02-07T22:00:00Z,settled
+KXRAINNYC-26JAN11,KXRAINNYC,"Will it rain in NYC on Jan 11, 2026?","On Jan 11, 2026",Climate and Weather,False,1066432,1059926,1,2026-01-12T04:59:00Z,settled
+KXBTC-24DEC1117,KXBTC,"Bitcoin price range on Dec 11, 2024 at 5pm EST?","On Dec 11, 2024",Crypto,True,1065190,579450,40,2024-12-11T22:00:00Z,settled
+KXCPI-25MAY,KXCPI,CPI in May 2025?,In May 2025,Economics,False,1064844,552358,7,2025-06-11T12:25:00Z,settled
+KXBTCD-26FEB0614,KXBTCD,"Bitcoin price on Feb 6, 2026 at 2pm EST?","On Feb 6, 2026 at 2pm EST",Crypto,False,1064016,429697,95,2026-02-06T19:00:00Z,settled
+KXBTCD-26FEB0618,KXBTCD,"Bitcoin price on Feb 6, 2026 at 6pm EST?","On Feb 6, 2026 at 6pm EST",Crypto,False,1061972,405053,95,2026-02-06T23:00:00Z,settled
+KXVANCEMENTION-25DEC17,KXVANCEMENTION,What will JD Vance say during his remarks in Pennsylvania?,"On Dec 16, 2025",Mentions,False,1061884,954945,20,2025-12-16T23:23:08.594691Z,settled
+KXBTC-24DEC1017,KXBTC,"Bitcoin price range on Dec 10, 2024 at 5pm EST?","On Dec 10, 2024",Crypto,True,1061763,640164,40,2024-12-10T22:00:00Z,settled
+KXLARGETARIFF,KXLARGETARIFF,Will Trump impose large tariffs in his first year?,In 2025,Politics,False,1060180,245964,1,2025-07-30T23:37:17.322965Z,settled
+KXBTCD-26JAN3015,KXBTCD,"Bitcoin price on Jan 30, 2026 at 3pm EST?","On Jan 30, 2026 at 3pm EST",Crypto,False,1057412,313939,75,2026-01-30T20:00:00Z,settled
+KXOSCARNOMSUPACTO-26,KXOSCARNOMSUPACTO,Oscar nominations for Best Supporting Actor?,In 2026,Entertainment,False,1055369,471935,23,2026-01-22T15:21:51.199174Z,settled
+PRESPARTYNM-24,PRESPARTYNM,Who will win New Mexico in the presidential election?,In 2024,Elections,True,1055105,412025,2,2025-01-06T19:45:04.147132Z,settled
+KXBTCD-26FEB1110,KXBTCD,"Bitcoin price on Feb 11, 2026 at 10am EST?","On Feb 11, 2026 at 10am EST",Crypto,False,1052597,354725,75,2026-02-11T15:00:00Z,settled
+KXBTCD-26FEB0616,KXBTCD,"Bitcoin price on Feb 6, 2026 at 4pm EST?","On Feb 6, 2026 at 4pm EST",Crypto,False,1052548,479297,95,2026-02-06T21:00:00Z,settled
+KXNFLMENTION-25DEC25DETMIN,KXNFLMENTION,What will the announcers say during the Detroit at Minnesota pro football game?,Detroit at Minnesota,Mentions,False,1051610,807731,21,2025-12-26T13:30:00Z,settled
+KXBTCD-26FEB1811,KXBTCD,"Bitcoin price on Feb 18, 2026 at 11am EST?","On Feb 18, 2026 at 11am EST",Crypto,False,1049690,448807,75,2026-02-18T16:00:00Z,settled
+KXNBAMENTION-26FEB11SASLAL,KXNBAMENTION,Mention: San Antonio vs Los Angeles L Professional Basketball Game,San Antonio vs Los Angeles L Professional Basketball Game,Mentions,False,1047102,742242,18,2026-02-11T08:30:00Z,settled
+KXJAN6PARDONDAY1-25JAN21,KXJAN6PARDONDAY1,How many Jan 6th protestors will Trump pardon today?,Inauguration Day,Politics,False,1044957,358536,6,2025-01-21T14:11:38.22243Z,settled
+KXBTCD-26FEB1611,KXBTCD,"Bitcoin price on Feb 16, 2026 at 11am EST?","On Feb 16, 2026 at 11am EST",Crypto,False,1042913,434380,75,2026-02-16T16:00:00Z,settled
+ECDJTBLOWOUT-24,ECDJTBLOWOUT,Trump blowout victory?,In 2024,Elections,False,1040016,187173,1,2025-01-06T20:44:21.487897Z,settled
+KXTRUMPMENTION-26JAN15,KXTRUMPMENTION,What will Trump say during the Signing Ceremony?,"On Jan 14, 2026",Mentions,False,1038236,680758,23,2026-01-15T00:21:24.71166Z,settled
+KXTRUMPMENTIONB-25DEC17,KXTRUMPMENTIONB,What will Trump say during the Hanukkah Reception?,"On Dec 16, 2025",Mentions,False,1034367,776756,22,2025-12-17T15:00:00Z,settled
+KXAPRPOTUSEOY-26JAN01,KXAPRPOTUSEOY,"The President's RCP approval rating on Jan 1, 2026?","On Jan 1, 2026",Politics,True,1034003,545382,12,2026-01-01T16:00:00Z,settled
+KXBTCD-26FEB1212,KXBTCD,"Bitcoin price on Feb 12, 2026 at 12pm EST?","On Feb 12, 2026 at 12pm EST",Crypto,False,1032784,387662,75,2026-02-12T17:00:00Z,settled
+KXHIGHLAX-25DEC17,KXHIGHLAX,"Highest temperature in LA on Dec 17, 2025?","On Dec 17, 2025",Climate and Weather,True,1030550,574432,6,2025-12-18T07:59:00Z,settled
+KXTRUMPMENTION-26FEB19,KXTRUMPMENTION,What will Trump say during his Black History Month Reception?,"On Feb 18, 2026",Mentions,False,1030309,846983,19,2026-02-18T21:16:15Z,settled
+KXEARNINGSMENTIONTSLA-25OCT22,KXEARNINGSMENTIONTSLA,What will Tesla say during their next earnings call?,"On Oct 22, 2025",Companies,False,1028373,729545,17,2025-10-23T15:25:07.135886Z,settled
+KXBTCD-26FEB1215,KXBTCD,"Bitcoin price on Feb 12, 2026 at 3pm EST?","On Feb 12, 2026 at 3pm EST",Crypto,False,1028329,354113,75,2026-02-12T20:00:00Z,settled
+KXWHVISIT-25,KXWHVISIT,Who will visit the White House before Apr 2025?,Before Apr 2025,Politics,False,1027973,454542,15,2025-04-01T14:00:00Z,settled
+KXHIGHNY-24NOV13,KXHIGHNY,"Highest temperature in NYC on Nov 13, 2024?","On Nov 13, 2024",Climate and Weather,True,1024554,522128,6,2024-11-14T04:59:00Z,settled
+KXBTCD-26JAN1317,KXBTCD,"Bitcoin price on Jan 13, 2026 at 5pm EST?","On Jan 13, 2026 at 5pm EST",Crypto,False,1024062,467647,40,2026-01-13T22:00:00Z,settled
+KXRTJURASSICWORLDREBIRTH,KXRTJURASSICWORLDREBIRTH,"""Jurassic World Rebirth"" Rotten Tomatoes score?","Jul 7, 2025",Entertainment,False,1023345,433436,11,2025-07-07T14:00:00Z,settled
+KXSECPRESSMENTION-26MAR08,KXSECPRESSMENTION,What will Karoline Leavitt say in the next press briefing?,"Feb 18, 2026",Mentions,False,1020013,785851,27,2026-02-18T19:45:35Z,settled
+KXVANCEMENTION-26JAN23,KXVANCEMENTION,What will JD Vance say during his remarks in Ohio?,"On Jan 22, 2026",Mentions,False,1017185,810595,20,2026-01-23T15:00:00Z,settled
+KXBTCD-24DEC1817,KXBTCD,"Bitcoin price on Dec 18, 2024 at 5pm EST?","On Dec 18, 2024 at 5pm EST",Crypto,False,1009921,415281,40,2024-12-18T22:00:00Z,settled
+KXHIGHLAX-26FEB04,KXHIGHLAX,"Highest temperature in LA on Feb 4, 2026?","On Feb 4, 2026",Climate and Weather,True,1009748,610421,6,2026-02-05T07:59:00Z,settled
+KXBTCD-26JAN0717,KXBTCD,"Bitcoin price on Jan 7, 2026 at 5pm EST?","On Jan 7, 2026 at 5pm EST",Crypto,False,1008264,573623,40,2026-01-07T22:00:00Z,settled
+KXENDORSECUOMO-25NOV04,KXENDORSECUOMO,Who will endorse Andrew Cuomo in the 2025 NYC Mayoral Race?,Before election day,Elections,False,1006483,410287,6,2025-11-04T15:00:00Z,settled
+KXAAAGASW-26FEB09,KXAAAGASW,US Gas prices up this week?,"On Feb 9, 2026",Economics,False,1006028,790985,3,2026-02-09T04:59:00Z,settled
+KXNFLMENTION-25DEC29LAATL,KXNFLMENTION,What will the announcers say during the Los Angeles R at Atlanta pro football game?,Los Angeles R at Atlanta,Mentions,False,1005760,857716,20,2025-12-30T06:15:00Z,settled
+KXBTCD-26FEB0314,KXBTCD,"Bitcoin price on Feb 3, 2026 at 2pm EST?","On Feb 3, 2026 at 2pm EST",Crypto,False,1005219,309352,75,2026-02-03T19:00:00Z,settled
+KXACQUANNOUNCETIKTOK-25,KXACQUANNOUNCETIKTOK,Will an acquisition of TikTok be announced this year?,In 2025,Financials,False,1002582,265734,1,2026-01-01T04:59:00Z,settled
+KXCPI-25NOV,KXCPI,CPI in Nov 2025?,In Nov 2025,Economics,False,1002093,446849,5,2025-12-18T13:29:00Z,settled
+KXCOLBERTMENTION-26JAN08,KXCOLBERTMENTION,What will Chris Hayes say during The Late Show with Stephen Colbert?,"On Jan 7, 2026",Mentions,False,1001106,891506,10,2026-01-08T15:00:00Z,settled
+KXTRUMPMENTION-25DEC16,KXTRUMPMENTION,What will Trump say during the Christmas Reception?,"On Dec 15, 2025",Mentions,False,1000612,733578,18,2025-12-16T15:00:00Z,settled

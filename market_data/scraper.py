@@ -3,20 +3,21 @@ Kalshi Events Scraper
 Optimized for scraping settled (historical) events with multi-threading.
 
 Usage:
-    python kalshi_scraper.py                                              # All settled events
-    python kalshi_scraper.py --min-dollar-volume 100000                   # Settled events with $100K+ volume
-    python kalshi_scraper.py --filter-actual-status settled               # Only truly settled events
-    python kalshi_scraper.py --status open closed settled --filter-actual-status settled  # Query all, keep only settled
-    
+    python scraper.py                                              # Settled events (auto-filtered by actual_status)
+    python scraper.py --min-dollar-volume 100000                   # Settled events with $100K+ volume
+    python scraper.py --min-dollar-volume 1000000                  # Settled events with $1M+ volume
+    python scraper.py --status open closed settled --filter-actual-status settled  # Query all, keep only settled
+
 Output:
     kalshi_events_YYYYMMDD_HHMMSS.csv
-    
+
 Note:
     The 'volume' field from Kalshi API is already in dollars (not contracts).
     Default status query is 'settled' for historical analysis.
-    
-    The API sometimes returns events with wrong status, so we check actual market
-    statuses and provide --filter-actual-status to filter by true status.
+
+    The API sometimes returns events with wrong status. This scraper now AUTOMATICALLY
+    filters by actual_status (from market data) when querying a single status to ensure
+    you only get truly settled/closed/open markets. Use --filter-actual-status to override.
 """
 
 import argparse
@@ -120,7 +121,7 @@ def get_actual_event_status(event: dict) -> str:
     return "unknown"
 
 
-def process_event(event: dict, query_status: str, min_dollar_volume: int) -> dict:
+def process_event(event: dict, min_dollar_volume: int) -> dict:
     """Process a single event and return enriched data if it passes filters."""
     dollar_volume = calculate_event_dollar_volume(event)
     
@@ -165,7 +166,7 @@ def fetch_all_events_for_status(status: str, min_dollar_volume: int = 0) -> list
                 break
             
             for event in events:
-                processed = process_event(event, status, min_dollar_volume)
+                processed = process_event(event, min_dollar_volume)
                 if processed:
                     all_events.append(processed)
                 else:
@@ -221,11 +222,21 @@ def scrape_all_events(statuses: list, min_dollar_volume: int = 0, filter_actual_
         if ticker and ticker not in seen:
             seen.add(ticker)
             unique_events.append(event)
-    
-    # Filter by actual status if requested
+
+    # Auto-filter by actual status to match query status (if single status queried)
+    # This ensures we only get truly settled/closed/open markets, not what API claims
+    if filter_actual_status is None and len(statuses) == 1:
+        filter_actual_status = statuses[0]
+        print(f"Auto-filtering to actual_status='{filter_actual_status}' (matches query status)")
+
+    # Filter by actual status if requested or auto-determined
     if filter_actual_status:
+        before_count = len(unique_events)
         unique_events = [e for e in unique_events if e.get("actual_status") == filter_actual_status]
-        print(f"Filtered to {len(unique_events)} events with actual_status='{filter_actual_status}'")
+        filtered_count = before_count - len(unique_events)
+        if filtered_count > 0:
+            print(f"Filtered out {filtered_count} events with mismatched actual_status")
+        print(f"Kept {len(unique_events)} events with actual_status='{filter_actual_status}'")
     
     print("-" * 60)
     print(f"Total unique events: {len(unique_events)}")
@@ -303,7 +314,7 @@ def main():
         filename = args.output
     else:
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        filename = f"kalshi_events_{timestamp}.csv"
+        filename = f"market_data/kalshi_events_{timestamp}.csv"
     
     events_to_csv(events, filename)
     
